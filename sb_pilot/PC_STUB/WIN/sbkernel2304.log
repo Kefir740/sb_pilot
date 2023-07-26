@@ -1,0 +1,2592 @@
+10.04 15:36:01 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:36:02 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:36:02 SBKRNL: Command = 11  11
+10.04 15:36:02 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:36:02 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:36:02 SBKRNL: Open com 10 (115200)
+10.04 15:36:02 SBKRNL: Pinpad status timeout 0 s
+10.04 15:36:02 SBKRNL: WaitPinpadSeconds=0
+10.04 15:36:02 SBKRNL: WaitPinpadSeconds=0
+10.04 15:36:02 SBKRNL: Start tmo 140200
+10.04 15:36:02 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+10.04 15:36:02 SBKRNL: ClientAddress value (hex) = 
+10.04 15:36:22 SBKRNL: Close com 10
+10.04 15:36:22 SBKRNL: Result  = 0
+10.04 15:36:22 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:36:22 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:36:22 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:37:12 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:37:12 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:37:12 SBKRNL: Command = 11  39 1230
+10.04 15:37:12 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:37:12 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:37:12 SBKRNL: Open com 10 (115200)
+10.04 15:37:12 SBKRNL: Pinpad status timeout 0 s
+10.04 15:37:12 SBKRNL: WaitPinpadSeconds=0
+10.04 15:37:12 SBKRNL: WaitPinpadSeconds=0
+10.04 15:37:12 SBKRNL: Start tmo 140200
+10.04 15:37:21 SBKRNL: Close com 10
+10.04 15:37:21 SBKRNL: Result  = 4134
+10.04 15:37:21 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:37:21 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:37:21 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:37:26 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:37:26 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:37:26 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:37:27 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:37:27 SBKRNL: Open com 10 (115200)
+10.04 15:37:27 SBKRNL: Close com 10
+10.04 15:37:27 SBKRNL: Command = 11  7
+10.04 15:37:27 SBKRNL: Version: 33.03.05
+10.04 15:37:27 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:37:27 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:37:27 SBKRNL: Open com 10 (115200)
+10.04 15:37:27 SBKRNL: Pinpad status timeout 0 s
+10.04 15:37:27 SBKRNL: WaitPinpadSeconds=0
+10.04 15:37:27 SBKRNL: WaitPinpadSeconds=0
+10.04 15:37:27 SBKRNL: Start tmo 140200
+10.04 15:37:27 SBKRNL: Connecting to 194.54.14.24, port 667
+10.04 15:37:27 SBKRNL: Start connection
+10.04 15:37:27 SBKRNL: Connect OK
+10.04 15:37:31 SBKRNL: Close socket 980
+10.04 15:37:31 SBKRNL: Connecting to 194.54.14.24, port 650
+10.04 15:37:31 SBKRNL: Start connection
+10.04 15:37:32 SBKRNL: Connect OK
+10.04 15:37:32 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+10.04 15:37:32 SBKRNL: ClientAddress value (hex) = 
+10.04 15:37:32 SBKRNL: Close socket 980
+10.04 15:37:33 SBKRNL: Connecting to 194.54.14.89, port 690
+10.04 15:37:33 SBKRNL: Start connection
+10.04 15:37:33 SBKRNL: Connect OK
+10.04 15:37:35 SBKRNL: Close socket 640
+10.04 15:37:35 SBKRNL: Close com 10
+10.04 15:37:35 SBKRNL: Result  = 0
+10.04 15:37:35 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+10.04 15:37:35 GATE: Error 126 on loading 'updater.dll' by module
+10.04 15:37:35 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:37:35 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:37:35 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:47:15 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:47:15 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:47:15 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:47:15 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:47:15 SBKRNL: Open com 10 (115200)
+10.04 15:47:15 SBKRNL: Close com 10
+10.04 15:47:15 SBKRNL: Command = 11  7
+10.04 15:47:15 SBKRNL: Version: 33.03.05
+10.04 15:47:15 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:47:15 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:47:15 SBKRNL: Open com 10 (115200)
+10.04 15:47:15 SBKRNL: Pinpad status timeout 0 s
+10.04 15:47:15 SBKRNL: WaitPinpadSeconds=0
+10.04 15:47:15 SBKRNL: WaitPinpadSeconds=0
+10.04 15:47:15 SBKRNL: Start tmo 140200
+10.04 15:47:16 SBKRNL: Connecting to 194.54.14.24, port 667
+10.04 15:47:16 SBKRNL: Start connection
+10.04 15:47:16 SBKRNL: Connect OK
+10.04 15:47:17 SBKRNL: Close socket 964
+10.04 15:47:17 SBKRNL: Connecting to 194.54.14.24, port 650
+10.04 15:47:17 SBKRNL: Start connection
+10.04 15:47:17 SBKRNL: Connect OK
+10.04 15:47:17 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+10.04 15:47:17 SBKRNL: ClientAddress value (hex) = 
+10.04 15:47:17 SBKRNL: Close socket 764
+10.04 15:47:18 SBKRNL: Connecting to 194.54.14.89, port 690
+10.04 15:47:18 SBKRNL: Start connection
+10.04 15:47:18 SBKRNL: Connect OK
+10.04 15:47:21 SBKRNL: Close socket 936
+10.04 15:47:21 SBKRNL: Close com 10
+10.04 15:47:21 SBKRNL: Result  = 0
+10.04 15:47:21 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+10.04 15:47:21 GATE: Error 126 on loading 'updater.dll' by module
+10.04 15:47:21 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:47:21 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:47:21 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:47:24 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:47:24 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:47:24 SBKRNL: Command = 11  39 1230
+10.04 15:47:24 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:47:25 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:47:25 SBKRNL: Open com 10 (115200)
+10.04 15:47:25 SBKRNL: Pinpad status timeout 0 s
+10.04 15:47:25 SBKRNL: WaitPinpadSeconds=0
+10.04 15:47:25 SBKRNL: WaitPinpadSeconds=0
+10.04 15:47:25 SBKRNL: Start tmo 140200
+10.04 15:47:34 SBKRNL: Connecting to 194.54.14.24, port 667
+10.04 15:47:34 SBKRNL: Start connection
+10.04 15:47:34 SBKRNL: Connect OK
+10.04 15:47:39 SBKRNL: Close socket 996
+10.04 15:47:43 SBKRNL: Close com 10
+10.04 15:47:43 SBKRNL: Result  = 403
+10.04 15:47:43 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:47:43 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:47:43 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:51:13 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:51:13 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:51:13 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:51:13 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:51:13 SBKRNL: Open com 10 (115200)
+10.04 15:51:13 SBKRNL: Close com 10
+10.04 15:51:13 SBKRNL: Command = 11  7
+10.04 15:51:13 SBKRNL: Version: 33.03.05
+10.04 15:51:13 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:51:13 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:51:13 SBKRNL: Open com 10 (115200)
+10.04 15:51:14 SBKRNL: Pinpad status timeout 0 s
+10.04 15:51:14 SBKRNL: WaitPinpadSeconds=0
+10.04 15:51:14 SBKRNL: WaitPinpadSeconds=0
+10.04 15:51:14 SBKRNL: Start tmo 140200
+10.04 15:51:14 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 15:51:14 SBKRNL: Start connection
+10.04 15:51:14 SBKRNL: Connect OK
+10.04 15:51:15 SBKRNL: Close socket 944
+10.04 15:51:15 SBKRNL: Connecting to 194.54.14.89, port 650
+10.04 15:51:15 SBKRNL: Start connection
+10.04 15:51:15 SBKRNL: Connect OK
+10.04 15:51:15 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+10.04 15:51:15 SBKRNL: ClientAddress value (hex) = 
+10.04 15:51:16 SBKRNL: Close socket 960
+10.04 15:51:17 SBKRNL: Connecting to 194.54.14.89, port 690
+10.04 15:51:17 SBKRNL: Start connection
+10.04 15:51:17 SBKRNL: Connect OK
+10.04 15:51:19 SBKRNL: Close socket 1008
+10.04 15:51:19 SBKRNL: Close com 10
+10.04 15:51:19 SBKRNL: Result  = 0
+10.04 15:51:19 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+10.04 15:51:19 GATE: Error 126 on loading 'updater.dll' by module
+10.04 15:51:19 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:51:19 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:51:19 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:51:21 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:51:21 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:51:21 SBKRNL: Command = 11  39 1230
+10.04 15:51:21 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:51:21 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:51:21 SBKRNL: Open com 10 (115200)
+10.04 15:51:21 SBKRNL: Pinpad status timeout 0 s
+10.04 15:51:21 SBKRNL: WaitPinpadSeconds=0
+10.04 15:51:21 SBKRNL: WaitPinpadSeconds=0
+10.04 15:51:21 SBKRNL: Start tmo 140200
+10.04 15:51:25 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 15:51:25 SBKRNL: Start connection
+10.04 15:51:25 SBKRNL: Connect OK
+10.04 15:51:34 SBKRNL: Socket 968 recv error:10054
+10.04 15:51:34 SBKRNL: Close socket 968
+10.04 15:51:34 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 15:51:34 SBKRNL: Start connection
+10.04 15:51:34 SBKRNL: Connect OK
+10.04 15:51:50 SBKRNL: Socket 968 recv error:10054
+10.04 15:51:50 SBKRNL: Close socket 968
+10.04 15:51:50 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:51:50 SBKRNL: Start connection
+10.04 15:51:50 SBKRNL: Connect OK
+10.04 15:52:01 SBKRNL: Close socket 1012
+10.04 15:52:03 SBKRNL: Close com 10
+10.04 15:52:03 SBKRNL: Result  = 0
+10.04 15:52:03 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:52:03 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:52:03 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:52:20 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:52:20 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:52:20 SBKRNL: Command = 11  8 1230
+10.04 15:52:20 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:52:20 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:52:20 SBKRNL: Open com 10 (115200)
+10.04 15:52:20 SBKRNL: Pinpad status timeout 0 s
+10.04 15:52:20 SBKRNL: WaitPinpadSeconds=0
+10.04 15:52:20 SBKRNL: WaitPinpadSeconds=0
+10.04 15:52:20 SBKRNL: Start tmo 140200
+10.04 15:52:26 SBKRNL: Send biometry command
+10.04 15:52:29 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:52:29 SBKRNL: Start connection
+10.04 15:52:29 SBKRNL: Connect OK
+10.04 15:52:33 SBKRNL: Close socket 964
+10.04 15:52:35 SBKRNL: Close com 10
+10.04 15:52:35 SBKRNL: Result  = 0
+10.04 15:52:35 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:52:35 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:52:35 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:52:56 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:52:56 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:52:56 SBKRNL: Command = 11  39 100
+10.04 15:52:56 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:52:57 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:52:57 SBKRNL: Open com 10 (115200)
+10.04 15:52:57 SBKRNL: Pinpad status timeout 0 s
+10.04 15:52:57 SBKRNL: WaitPinpadSeconds=0
+10.04 15:52:57 SBKRNL: WaitPinpadSeconds=0
+10.04 15:52:57 SBKRNL: Start tmo 140200
+10.04 15:52:59 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:52:59 SBKRNL: Start connection
+10.04 15:52:59 SBKRNL: Connect OK
+10.04 15:53:08 SBKRNL: Socket 932 recv error:10054
+10.04 15:53:08 SBKRNL: Close socket 932
+10.04 15:53:08 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:53:08 SBKRNL: Start connection
+10.04 15:53:23 SBKRNL: Connect OK
+10.04 15:53:34 SBKRNL: Close socket 996
+10.04 15:53:35 SBKRNL: Close com 10
+10.04 15:53:35 SBKRNL: Result  = 0
+10.04 15:53:35 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:53:35 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:53:35 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:53:43 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:53:43 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:53:43 SBKRNL: Command = 11  8 100
+10.04 15:53:43 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:53:43 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:53:43 SBKRNL: Open com 10 (115200)
+10.04 15:53:43 SBKRNL: Pinpad status timeout 0 s
+10.04 15:53:43 SBKRNL: WaitPinpadSeconds=0
+10.04 15:53:43 SBKRNL: WaitPinpadSeconds=0
+10.04 15:53:43 SBKRNL: Start tmo 140200
+10.04 15:53:46 SBKRNL: Send biometry command
+10.04 15:53:50 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:53:50 SBKRNL: Start connection
+10.04 15:53:50 SBKRNL: Connect OK
+10.04 15:53:56 SBKRNL: Close socket 932
+10.04 15:53:57 SBKRNL: Close com 10
+10.04 15:53:57 SBKRNL: Result  = 0
+10.04 15:53:58 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:53:58 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:53:58 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:54:03 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:54:03 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:54:03 SBKRNL: Command = 11  39 100
+10.04 15:54:03 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:54:03 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:54:03 SBKRNL: Open com 10 (115200)
+10.04 15:54:03 SBKRNL: Pinpad status timeout 0 s
+10.04 15:54:03 SBKRNL: WaitPinpadSeconds=0
+10.04 15:54:03 SBKRNL: WaitPinpadSeconds=0
+10.04 15:54:03 SBKRNL: Start tmo 140200
+10.04 15:54:07 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:54:07 SBKRNL: Start connection
+10.04 15:54:07 SBKRNL: Connect OK
+10.04 15:54:11 SBKRNL: Close socket 932
+10.04 15:54:15 SBKRNL: Close com 10
+10.04 15:54:15 SBKRNL: Result  = 403
+10.04 15:54:15 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:54:15 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:54:15 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:54:18 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:54:18 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:54:18 SBKRNL: Command = 11  39 100
+10.04 15:54:18 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:54:18 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:54:18 SBKRNL: Open com 10 (115200)
+10.04 15:54:18 SBKRNL: Pinpad status timeout 0 s
+10.04 15:54:18 SBKRNL: WaitPinpadSeconds=0
+10.04 15:54:18 SBKRNL: WaitPinpadSeconds=0
+10.04 15:54:18 SBKRNL: Start tmo 140200
+10.04 15:54:22 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:54:22 SBKRNL: Start connection
+10.04 15:54:22 SBKRNL: Connect OK
+10.04 15:54:32 SBKRNL: Socket 936 recv error:10054
+10.04 15:54:32 SBKRNL: Close socket 936
+10.04 15:54:32 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:54:32 SBKRNL: Start connection
+10.04 15:54:32 SBKRNL: Connect OK
+10.04 15:54:43 SBKRNL: Close socket 948
+10.04 15:54:44 SBKRNL: Close com 10
+10.04 15:54:44 SBKRNL: Result  = 0
+10.04 15:54:44 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:54:44 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:54:44 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:54:49 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:54:49 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:54:49 SBKRNL: Command = 11  8 100
+10.04 15:54:49 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:54:49 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:54:49 SBKRNL: Open com 10 (115200)
+10.04 15:54:49 SBKRNL: Pinpad status timeout 0 s
+10.04 15:54:49 SBKRNL: WaitPinpadSeconds=0
+10.04 15:54:49 SBKRNL: WaitPinpadSeconds=0
+10.04 15:54:49 SBKRNL: Start tmo 140200
+10.04 15:54:52 SBKRNL: Send biometry command
+10.04 15:54:55 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:54:55 SBKRNL: Start connection
+10.04 15:54:55 SBKRNL: Connect OK
+10.04 15:55:04 SBKRNL: Socket 984 recv error:10054
+10.04 15:55:04 SBKRNL: Close socket 984
+10.04 15:55:05 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:55:05 SBKRNL: Start connection
+10.04 15:55:05 SBKRNL: Connect OK
+10.04 15:55:11 SBKRNL: Close socket 928
+10.04 15:55:12 SBKRNL: Close com 10
+10.04 15:55:12 SBKRNL: Result  = 0
+10.04 15:55:12 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:55:12 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:55:12 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 15:55:20 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 15:55:20 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 15:55:20 SBKRNL: Command = 11  39 100
+10.04 15:55:20 SBKRNL: MSBuild. Version:33.03.05
+10.04 15:55:20 SBKRNL: Port timeouts:4294967295-0-0
+10.04 15:55:20 SBKRNL: Open com 10 (115200)
+10.04 15:55:20 SBKRNL: Pinpad status timeout 0 s
+10.04 15:55:20 SBKRNL: WaitPinpadSeconds=0
+10.04 15:55:20 SBKRNL: WaitPinpadSeconds=0
+10.04 15:55:20 SBKRNL: Start tmo 140200
+10.04 15:55:25 SBKRNL: Connecting to 194.54.15.25, port 700
+10.04 15:55:25 SBKRNL: Start connection
+10.04 15:55:25 SBKRNL: Connect OK
+10.04 15:55:30 SBKRNL: Close socket 988
+10.04 15:55:32 SBKRNL: Close com 10
+10.04 15:55:32 SBKRNL: Result  = 403
+10.04 15:55:32 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 15:55:32 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 15:55:32 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:32:23 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:32:23 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:32:23 SBKRNL: Command = 11  39 100
+10.04 16:32:23 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:32:23 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:32:23 SBKRNL: Open com 10 (115200)
+10.04 16:32:23 SBKRNL: Pinpad status timeout 0 s
+10.04 16:32:23 SBKRNL: WaitPinpadSeconds=0
+10.04 16:32:23 SBKRNL: WaitPinpadSeconds=0
+10.04 16:32:23 SBKRNL: Start tmo 140200
+10.04 16:32:33 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:32:33 SBKRNL: Start connection
+10.04 16:32:33 SBKRNL: Connect OK
+10.04 16:32:42 SBKRNL: Socket 992 recv error:10054
+10.04 16:32:42 SBKRNL: Close socket 992
+10.04 16:32:42 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:32:42 SBKRNL: Start connection
+10.04 16:32:42 SBKRNL: Connect OK
+10.04 16:32:53 SBKRNL: Close socket 940
+10.04 16:32:54 SBKRNL: Close com 10
+10.04 16:32:54 SBKRNL: Result  = 0
+10.04 16:32:54 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:32:54 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:32:54 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:45:38 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:45:38 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:45:38 SBKRNL: Command = 11  39 100
+10.04 16:45:38 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:45:38 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:45:38 SBKRNL: Open com 10 (115200)
+10.04 16:45:38 SBKRNL: Pinpad status timeout 0 s
+10.04 16:45:38 SBKRNL: WaitPinpadSeconds=0
+10.04 16:45:38 SBKRNL: WaitPinpadSeconds=0
+10.04 16:45:38 SBKRNL: Start tmo 140200
+10.04 16:45:44 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:45:44 SBKRNL: Start connection
+10.04 16:45:44 SBKRNL: Connect OK
+10.04 16:45:53 SBKRNL: Socket 1020 recv error:10054
+10.04 16:45:53 SBKRNL: Close socket 1020
+10.04 16:45:53 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:45:53 SBKRNL: Start connection
+10.04 16:45:53 SBKRNL: Connect OK
+10.04 16:46:03 SBKRNL: Close socket 944
+10.04 16:46:05 SBKRNL: Close com 10
+10.04 16:46:05 SBKRNL: Result  = 0
+10.04 16:46:05 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:46:05 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:46:05 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:46:52 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:46:52 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:46:52 SBKRNL: Command = 11  8 100
+10.04 16:46:52 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:46:52 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:46:52 SBKRNL: Open com 10 (115200)
+10.04 16:46:52 SBKRNL: Pinpad status timeout 0 s
+10.04 16:46:52 SBKRNL: WaitPinpadSeconds=0
+10.04 16:46:52 SBKRNL: WaitPinpadSeconds=0
+10.04 16:46:52 SBKRNL: Start tmo 140200
+10.04 16:46:55 SBKRNL: Send biometry command
+10.04 16:47:08 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:47:08 SBKRNL: Start connection
+10.04 16:47:09 SBKRNL: Connect OK
+10.04 16:47:14 SBKRNL: Close socket 932
+10.04 16:47:16 SBKRNL: Close com 10
+10.04 16:47:16 SBKRNL: Result  = 0
+10.04 16:47:16 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:47:16 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:47:16 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:48:36 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:48:36 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:48:36 SBKRNL: Command = 11  8 10000
+10.04 16:48:36 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:48:36 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:48:36 SBKRNL: Open com 10 (115200)
+10.04 16:48:36 SBKRNL: Pinpad status timeout 0 s
+10.04 16:48:36 SBKRNL: WaitPinpadSeconds=0
+10.04 16:48:37 SBKRNL: WaitPinpadSeconds=0
+10.04 16:48:37 SBKRNL: Start tmo 140200
+10.04 16:48:41 SBKRNL: Send biometry command
+10.04 16:48:50 SBKRNL: Close com 10
+10.04 16:48:50 SBKRNL: Result  = 4118
+10.04 16:48:50 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:48:50 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:48:50 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:48:58 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:48:58 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:48:58 SBKRNL: Command = 11  39 10000
+10.04 16:48:58 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:48:59 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:48:59 SBKRNL: Open com 10 (115200)
+10.04 16:48:59 SBKRNL: Pinpad status timeout 0 s
+10.04 16:48:59 SBKRNL: WaitPinpadSeconds=0
+10.04 16:48:59 SBKRNL: WaitPinpadSeconds=0
+10.04 16:48:59 SBKRNL: Start tmo 140200
+10.04 16:49:02 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:49:02 SBKRNL: Start connection
+10.04 16:49:02 SBKRNL: Connect OK
+10.04 16:49:07 SBKRNL: Close socket 1016
+10.04 16:49:09 SBKRNL: Close com 10
+10.04 16:49:09 SBKRNL: Result  = 0
+10.04 16:49:09 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:49:09 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:49:09 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:49:16 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:49:16 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:49:16 SBKRNL: Command = 11  8 10000
+10.04 16:49:16 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:49:16 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:49:16 SBKRNL: Open com 10 (115200)
+10.04 16:49:16 SBKRNL: Pinpad status timeout 0 s
+10.04 16:49:16 SBKRNL: WaitPinpadSeconds=0
+10.04 16:49:16 SBKRNL: WaitPinpadSeconds=0
+10.04 16:49:16 SBKRNL: Start tmo 140200
+10.04 16:49:19 SBKRNL: Send abort command
+10.04 16:49:20 SBKRNL: Close com 10
+10.04 16:49:20 SBKRNL: Clear cheque on error 2000
+10.04 16:49:20 SBKRNL: Result  = 2000
+10.04 16:49:20 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:49:20 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:49:20 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:49:24 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:49:24 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:49:24 SBKRNL: Command = 11  8 100000
+10.04 16:49:24 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:49:24 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:49:24 SBKRNL: Open com 10 (115200)
+10.04 16:49:24 SBKRNL: Pinpad status timeout 0 s
+10.04 16:49:24 SBKRNL: WaitPinpadSeconds=0
+10.04 16:49:24 SBKRNL: WaitPinpadSeconds=0
+10.04 16:49:24 SBKRNL: Start tmo 140200
+10.04 16:49:27 SBKRNL: Send biometry command
+10.04 16:49:36 SBKRNL: Close com 10
+10.04 16:49:36 SBKRNL: Result  = 4118
+10.04 16:49:36 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:49:36 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:49:36 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:49:40 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:49:40 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:49:40 SBKRNL: Command = 11  8 10000
+10.04 16:49:40 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:49:40 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:49:40 SBKRNL: Open com 10 (115200)
+10.04 16:49:40 SBKRNL: Pinpad status timeout 0 s
+10.04 16:49:40 SBKRNL: WaitPinpadSeconds=0
+10.04 16:49:40 SBKRNL: WaitPinpadSeconds=0
+10.04 16:49:40 SBKRNL: Start tmo 140200
+10.04 16:49:43 SBKRNL: Send biometry command
+10.04 16:49:46 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:49:46 SBKRNL: Start connection
+10.04 16:49:47 SBKRNL: Connect OK
+10.04 16:49:56 SBKRNL: Socket 944 recv error:10054
+10.04 16:49:56 SBKRNL: Close socket 944
+10.04 16:49:56 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:49:56 SBKRNL: Start connection
+10.04 16:49:56 SBKRNL: Connect OK
+10.04 16:50:02 SBKRNL: Close socket 972
+10.04 16:50:03 SBKRNL: Close com 10
+10.04 16:50:03 SBKRNL: Result  = 0
+10.04 16:50:04 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:50:04 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:50:04 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:50:12 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:50:12 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:50:12 SBKRNL: Command = 11  8 100100
+10.04 16:50:12 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:50:12 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:50:12 SBKRNL: Open com 10 (115200)
+10.04 16:50:12 SBKRNL: Pinpad status timeout 0 s
+10.04 16:50:12 SBKRNL: WaitPinpadSeconds=0
+10.04 16:50:12 SBKRNL: WaitPinpadSeconds=0
+10.04 16:50:12 SBKRNL: Start tmo 140200
+10.04 16:50:22 SBKRNL: Send biometry command
+10.04 16:50:26 SBKRNL: Close com 10
+10.04 16:50:26 SBKRNL: Result  = 4118
+10.04 16:50:26 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:50:26 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:50:26 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:50:32 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:50:32 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:50:32 SBKRNL: Command = 11  39 100100
+10.04 16:50:32 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:50:32 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:50:32 SBKRNL: Open com 10 (115200)
+10.04 16:50:32 SBKRNL: Pinpad status timeout 0 s
+10.04 16:50:32 SBKRNL: WaitPinpadSeconds=0
+10.04 16:50:32 SBKRNL: WaitPinpadSeconds=0
+10.04 16:50:33 SBKRNL: Start tmo 140200
+10.04 16:50:36 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:50:36 SBKRNL: Start connection
+10.04 16:50:36 SBKRNL: Connect OK
+10.04 16:50:40 SBKRNL: Close socket 992
+10.04 16:50:42 SBKRNL: Close com 10
+10.04 16:50:42 SBKRNL: Result  = 403
+10.04 16:50:42 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:50:42 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:50:42 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:50:45 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:50:45 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:50:45 SBKRNL: Command = 11  39 100100
+10.04 16:50:45 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:50:45 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:50:45 SBKRNL: Open com 10 (115200)
+10.04 16:50:45 SBKRNL: Pinpad status timeout 0 s
+10.04 16:50:45 SBKRNL: WaitPinpadSeconds=0
+10.04 16:50:45 SBKRNL: WaitPinpadSeconds=0
+10.04 16:50:45 SBKRNL: Start tmo 140200
+10.04 16:50:47 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:50:47 SBKRNL: Start connection
+10.04 16:50:48 SBKRNL: Connect OK
+10.04 16:50:53 SBKRNL: Close socket 952
+10.04 16:51:03 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:51:03 SBKRNL: Start connection
+10.04 16:51:18 SBKRNL: Connect OK
+10.04 16:51:19 SBKRNL: Close socket 980
+10.04 16:51:21 SBKRNL: Close com 10
+10.04 16:51:21 SBKRNL: Result  = 0
+10.04 16:51:21 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:51:21 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:51:21 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:51:25 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:51:25 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:51:25 SBKRNL: Command = 11  8 100100
+10.04 16:51:25 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:51:25 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:51:25 SBKRNL: Open com 10 (115200)
+10.04 16:51:25 SBKRNL: Pinpad status timeout 0 s
+10.04 16:51:25 SBKRNL: WaitPinpadSeconds=0
+10.04 16:51:25 SBKRNL: WaitPinpadSeconds=0
+10.04 16:51:25 SBKRNL: Start tmo 140200
+10.04 16:51:32 SBKRNL: Send biometry command
+10.04 16:51:35 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:51:35 SBKRNL: Start connection
+10.04 16:51:35 SBKRNL: Connect OK
+10.04 16:51:39 SBKRNL: Close socket 960
+10.04 16:51:41 SBKRNL: Close com 10
+10.04 16:51:41 SBKRNL: Result  = 0
+10.04 16:51:41 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:51:41 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:51:41 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:51:51 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:51:51 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:51:51 SBKRNL: Command = 11  39 100100
+10.04 16:51:51 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:51:51 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:51:51 SBKRNL: Open com 10 (115200)
+10.04 16:51:51 SBKRNL: Pinpad status timeout 0 s
+10.04 16:51:51 SBKRNL: WaitPinpadSeconds=0
+10.04 16:51:51 SBKRNL: WaitPinpadSeconds=0
+10.04 16:51:51 SBKRNL: Start tmo 140200
+10.04 16:52:01 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:52:01 SBKRNL: Start connection
+10.04 16:52:01 SBKRNL: Connect OK
+10.04 16:52:10 SBKRNL: Socket 948 recv error:10054
+10.04 16:52:10 SBKRNL: Close socket 948
+10.04 16:52:10 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:52:10 SBKRNL: Start connection
+10.04 16:52:10 SBKRNL: Connect OK
+10.04 16:52:21 SBKRNL: Close socket 988
+10.04 16:52:27 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:52:27 SBKRNL: Start connection
+10.04 16:52:27 SBKRNL: Connect OK
+10.04 16:52:28 SBKRNL: Close socket 988
+10.04 16:52:30 SBKRNL: Close com 10
+10.04 16:52:30 SBKRNL: Result  = 0
+10.04 16:52:30 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:52:30 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:52:30 GATE: Unloaded 'sb_kernel.dll' (73060000)
+10.04 16:52:36 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+10.04 16:52:36 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+10.04 16:52:36 SBKRNL: Command = 11  8 100100
+10.04 16:52:36 SBKRNL: MSBuild. Version:33.03.05
+10.04 16:52:36 SBKRNL: Port timeouts:4294967295-0-0
+10.04 16:52:36 SBKRNL: Open com 10 (115200)
+10.04 16:52:36 SBKRNL: Pinpad status timeout 0 s
+10.04 16:52:36 SBKRNL: WaitPinpadSeconds=0
+10.04 16:52:37 SBKRNL: WaitPinpadSeconds=0
+10.04 16:52:37 SBKRNL: Start tmo 140200
+10.04 16:52:42 SBKRNL: Send biometry command
+10.04 16:52:45 SBKRNL: Connecting to 194.54.14.89, port 700
+10.04 16:52:45 SBKRNL: Start connection
+10.04 16:52:46 SBKRNL: Connect OK
+10.04 16:52:51 SBKRNL: Close socket 1008
+10.04 16:52:52 SBKRNL: Close com 10
+10.04 16:52:52 SBKRNL: Result  = 0
+10.04 16:52:53 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+10.04 16:52:53 SBKRNL: DialogFormsFree() Unload Ok.
+10.04 16:52:53 GATE: Unloaded 'sb_kernel.dll' (73060000)
+11.04 14:37:53 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+11.04 14:37:53 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+11.04 14:37:53 SBKRNL: Command = 11  39 100
+11.04 14:37:53 SBKRNL: MSBuild. Version:33.03.05
+11.04 14:37:53 SBKRNL: Port timeouts:4294967295-0-0
+11.04 14:37:53 SBKRNL: Open com 10 (115200)
+11.04 14:37:53 SBKRNL: Pinpad status timeout 0 s
+11.04 14:37:53 SBKRNL: WaitPinpadSeconds=0
+11.04 14:37:53 SBKRNL: WaitPinpadSeconds=0
+11.04 14:37:53 SBKRNL: Start tmo 140200
+11.04 14:37:57 SBKRNL: Connecting to 194.54.14.89, port 700
+11.04 14:37:57 SBKRNL: Start connection
+11.04 14:37:57 SBKRNL: Connect OK
+11.04 14:38:07 SBKRNL: Socket 1000 recv error:10054
+11.04 14:38:07 SBKRNL: Close socket 1000
+11.04 14:38:07 SBKRNL: Connecting to 194.54.14.89, port 700
+11.04 14:38:07 SBKRNL: Start connection
+11.04 14:38:08 SBKRNL: Connect OK
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:18 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:19 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:20 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:21 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:22 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:23 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:24 SBKRNL: COM read mask 0x0000001F
+11.04 14:38:55 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+11.04 14:38:55 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+11.04 14:38:55 SBKRNL: Command = 11  39 100
+11.04 14:38:55 SBKRNL: MSBuild. Version:33.03.05
+11.04 14:38:55 SBKRNL: Port timeouts:4294967295-0-0
+11.04 14:38:55 SBKRNL: Open com 10 (115200)
+11.04 14:38:55 SBKRNL: Pinpad status timeout 0 s
+11.04 14:38:55 SBKRNL: WaitPinpadSeconds=0
+11.04 14:38:55 SBKRNL: WaitPinpadSeconds=0
+11.04 14:38:55 SBKRNL: Start tmo 140200
+11.04 14:38:59 SBKRNL: Connecting to 194.54.14.24, port 667
+11.04 14:38:59 SBKRNL: Start connection
+11.04 14:38:59 SBKRNL: Connect OK
+11.04 14:39:07 SBKRNL: Close socket 960
+11.04 14:39:08 SBKRNL: Close com 10
+11.04 14:39:08 SBKRNL: Result  = 0
+11.04 14:39:09 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+11.04 14:39:09 SBKRNL: DialogFormsFree() Unload Ok.
+11.04 14:39:09 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 10:36:07 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 10:36:07 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 10:36:07 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:36:07 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:36:07 SBKRNL: Open com 10 (115200)
+12.04 10:36:07 SBKRNL: Close com 10
+12.04 10:36:07 SBKRNL: Command = 11  7
+12.04 10:36:07 SBKRNL: Version: 33.03.05
+12.04 10:36:07 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:36:07 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:36:07 SBKRNL: Open com 10 (115200)
+12.04 10:36:08 SBKRNL: Pinpad status timeout 0 s
+12.04 10:36:08 SBKRNL: WaitPinpadSeconds=0
+12.04 10:36:08 SBKRNL: WaitPinpadSeconds=0
+12.04 10:36:08 SBKRNL: Start tmo 140200
+12.04 10:36:08 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 10:36:08 SBKRNL: Start connection
+12.04 10:36:09 SBKRNL: Connect OK
+12.04 10:36:10 SBKRNL: Close socket 984
+12.04 10:36:10 SBKRNL: Connecting to 194.54.14.24, port 650
+12.04 10:36:10 SBKRNL: Start connection
+12.04 10:36:11 SBKRNL: Connect OK
+12.04 10:36:11 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+12.04 10:36:11 SBKRNL: ClientAddress value (hex) = 
+12.04 10:36:12 SBKRNL: Close socket 952
+12.04 10:36:13 SBKRNL: Connecting to 194.54.14.89, port 690
+12.04 10:36:13 SBKRNL: Start connection
+12.04 10:36:13 SBKRNL: Connect OK
+12.04 10:36:15 SBKRNL: Close socket 1020
+12.04 10:36:15 SBKRNL: Close com 10
+12.04 10:36:15 SBKRNL: Result  = 0
+12.04 10:36:15 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+12.04 10:36:15 GATE: Error 126 on loading 'updater.dll' by module
+12.04 10:36:15 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 10:36:15 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 10:36:15 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 10:36:23 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 10:36:23 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 10:36:23 SBKRNL: Command = 11  39 1000
+12.04 10:36:23 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:36:23 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:36:23 SBKRNL: Open com 10 (115200)
+12.04 10:36:23 SBKRNL: Pinpad status timeout 0 s
+12.04 10:36:23 SBKRNL: WaitPinpadSeconds=0
+12.04 10:36:23 SBKRNL: WaitPinpadSeconds=0
+12.04 10:36:23 SBKRNL: Start tmo 140200
+12.04 10:36:26 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 10:36:26 SBKRNL: Start connection
+12.04 10:36:26 SBKRNL: Connect OK
+12.04 10:36:35 SBKRNL: Close socket 956
+12.04 10:36:36 SBKRNL: Close com 10
+12.04 10:36:36 SBKRNL: Result  = 0
+12.04 10:36:36 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 10:36:36 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 10:36:36 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 10:36:47 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 10:36:47 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 10:36:47 SBKRNL: Command = 11  8 1000
+12.04 10:36:47 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:36:47 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:36:47 SBKRNL: Open com 10 (115200)
+12.04 10:36:47 SBKRNL: Pinpad status timeout 0 s
+12.04 10:36:47 SBKRNL: WaitPinpadSeconds=0
+12.04 10:36:47 SBKRNL: WaitPinpadSeconds=0
+12.04 10:36:47 SBKRNL: Start tmo 140200
+12.04 10:36:52 SBKRNL: Send biometry command
+12.04 10:36:55 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 10:36:55 SBKRNL: Start connection
+12.04 10:36:55 SBKRNL: Connect OK
+12.04 10:37:02 SBKRNL: Close socket 632
+12.04 10:37:04 SBKRNL: Close com 10
+12.04 10:37:04 SBKRNL: Result  = 0
+12.04 10:37:04 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 10:37:04 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 10:37:04 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 10:37:14 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 10:37:14 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 10:37:14 SBKRNL: Command = 11  3 2000
+12.04 10:37:14 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:37:14 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:37:14 SBKRNL: Open com 10 (115200)
+12.04 10:37:14 SBKRNL: Pinpad status timeout 0 s
+12.04 10:37:14 SBKRNL: WaitPinpadSeconds=0
+12.04 10:37:14 SBKRNL: WaitPinpadSeconds=0
+12.04 10:37:14 SBKRNL: Start tmo 140200
+12.04 10:37:30 SBKRNL: Send abort command
+12.04 10:37:31 SBKRNL: Close com 10
+12.04 10:37:31 SBKRNL: Clear cheque on error 2000
+12.04 10:37:31 SBKRNL: Result  = 2000
+12.04 10:37:31 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 10:37:31 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 10:37:31 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 10:37:37 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 10:37:37 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 10:37:37 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:37:37 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:37:37 SBKRNL: Open com 10 (115200)
+12.04 10:37:37 SBKRNL: Close com 10
+12.04 10:37:37 SBKRNL: Command = 11  7
+12.04 10:37:37 SBKRNL: Version: 33.03.05
+12.04 10:37:37 SBKRNL: MSBuild. Version:33.03.05
+12.04 10:37:37 SBKRNL: Port timeouts:4294967295-0-0
+12.04 10:37:37 SBKRNL: Open com 10 (115200)
+12.04 10:37:37 SBKRNL: Pinpad status timeout 0 s
+12.04 10:37:37 SBKRNL: WaitPinpadSeconds=0
+12.04 10:37:37 SBKRNL: WaitPinpadSeconds=0
+12.04 10:37:37 SBKRNL: Start tmo 140200
+12.04 10:37:38 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 10:37:38 SBKRNL: Start connection
+12.04 10:37:38 SBKRNL: Connect OK
+12.04 10:37:43 SBKRNL: Close socket 904
+12.04 10:37:43 SBKRNL: Connecting to 194.54.14.24, port 650
+12.04 10:37:43 SBKRNL: Start connection
+12.04 10:37:43 SBKRNL: Connect OK
+12.04 10:37:44 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+12.04 10:37:44 SBKRNL: ClientAddress value (hex) = 
+12.04 10:37:44 SBKRNL: Close socket 960
+12.04 10:37:45 SBKRNL: Connecting to 194.54.14.89, port 690
+12.04 10:37:45 SBKRNL: Start connection
+12.04 10:37:45 SBKRNL: Connect OK
+12.04 10:37:47 SBKRNL: Close socket 960
+12.04 10:37:47 SBKRNL: Close com 10
+12.04 10:37:47 SBKRNL: Result  = 0
+12.04 10:37:47 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+12.04 10:37:47 GATE: Error 126 on loading 'updater.dll' by module
+12.04 10:37:47 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 10:37:47 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 10:37:47 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 17:54:24 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 17:54:24 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 17:54:24 SBKRNL: Command = 11  39 1000
+12.04 17:54:24 SBKRNL: MSBuild. Version:33.03.05
+12.04 17:54:24 SBKRNL: Port timeouts:4294967295-0-0
+12.04 17:54:24 SBKRNL: Open com 10 (115200)
+12.04 17:54:24 SBKRNL: Pinpad status timeout 0 s
+12.04 17:54:24 SBKRNL: WaitPinpadSeconds=0
+12.04 17:54:24 SBKRNL: WaitPinpadSeconds=0
+12.04 17:54:24 SBKRNL: Start tmo 140200
+12.04 17:54:28 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:54:28 SBKRNL: Start connection
+12.04 17:54:28 SBKRNL: Connect OK
+12.04 17:54:33 SBKRNL: Close socket 968
+12.04 17:54:36 SBKRNL: Close com 10
+12.04 17:54:36 SBKRNL: Result  = 403
+12.04 17:54:36 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 17:54:36 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 17:54:36 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 17:55:24 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 17:55:24 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 17:55:24 SBKRNL: Command = 11  3 1000 /i=BIOMETRY
+12.04 17:55:24 SBKRNL: Result  = 4332
+12.04 17:55:24 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 17:55:24 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 17:55:24 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 17:55:34 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 17:55:34 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 17:55:34 SBKRNL: Command = 11  39 1000
+12.04 17:55:34 SBKRNL: MSBuild. Version:33.03.05
+12.04 17:55:34 SBKRNL: Port timeouts:4294967295-0-0
+12.04 17:55:34 SBKRNL: Open com 10 (115200)
+12.04 17:55:34 SBKRNL: Pinpad status timeout 0 s
+12.04 17:55:34 SBKRNL: WaitPinpadSeconds=0
+12.04 17:55:34 SBKRNL: WaitPinpadSeconds=0
+12.04 17:55:34 SBKRNL: Start tmo 140200
+12.04 17:55:38 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:55:38 SBKRNL: Start connection
+12.04 17:55:38 SBKRNL: Connect OK
+12.04 17:55:43 SBKRNL: Close socket 932
+12.04 17:55:47 SBKRNL: Close com 10
+12.04 17:55:47 SBKRNL: Result  = 403
+12.04 17:55:47 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 17:55:47 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 17:55:47 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 17:56:02 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 17:56:02 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 17:56:02 SBKRNL: Command = 11  3 1000 
+12.04 17:56:02 SBKRNL: MSBuild. Version:33.03.05
+12.04 17:56:02 SBKRNL: Port timeouts:4294967295-0-0
+12.04 17:56:02 SBKRNL: Open com 10 (115200)
+12.04 17:56:02 SBKRNL: Pinpad status timeout 0 s
+12.04 17:56:02 SBKRNL: WaitPinpadSeconds=0
+12.04 17:56:02 SBKRNL: WaitPinpadSeconds=0
+12.04 17:56:02 SBKRNL: Start tmo 140200
+12.04 17:56:09 SBKRNL: Send manual command
+12.04 17:56:27 SBKRNL: Close com 10
+12.04 17:56:27 SBKRNL: Clear cheque on error 2000
+12.04 17:56:27 SBKRNL: Result  = 2000
+12.04 17:56:27 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 17:56:27 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 17:56:27 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 17:57:31 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 17:57:31 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 17:57:31 SBKRNL: Command = 11  7 1000
+12.04 17:57:31 SBKRNL: Version: 33.03.05
+12.04 17:57:31 SBKRNL: MSBuild. Version:33.03.05
+12.04 17:57:31 SBKRNL: Port timeouts:4294967295-0-0
+12.04 17:57:31 SBKRNL: Open com 10 (115200)
+12.04 17:57:31 SBKRNL: Pinpad status timeout 0 s
+12.04 17:57:31 SBKRNL: WaitPinpadSeconds=0
+12.04 17:57:31 SBKRNL: WaitPinpadSeconds=0
+12.04 17:57:32 SBKRNL: Start tmo 140200
+12.04 17:57:32 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:57:32 SBKRNL: Start connection
+12.04 17:57:32 SBKRNL: Connect OK
+12.04 17:57:36 SBKRNL: Close socket 936
+12.04 17:57:36 SBKRNL: Connecting to 194.54.14.24, port 650
+12.04 17:57:36 SBKRNL: Start connection
+12.04 17:57:37 SBKRNL: Connect OK
+12.04 17:57:37 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+12.04 17:57:37 SBKRNL: ClientAddress value (hex) = 
+12.04 17:57:38 SBKRNL: Close socket 920
+12.04 17:57:39 SBKRNL: Connecting to 194.54.14.89, port 690
+12.04 17:57:39 SBKRNL: Start connection
+12.04 17:57:39 SBKRNL: Connect OK
+12.04 17:57:41 SBKRNL: Close socket 960
+12.04 17:57:41 SBKRNL: Close com 10
+12.04 17:57:41 SBKRNL: Result  = 0
+12.04 17:57:41 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 17:57:41 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 17:57:41 GATE: Unloaded 'sb_kernel.dll' (73060000)
+12.04 17:57:46 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73060000)
+12.04 17:57:46 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (70430000)
+12.04 17:57:46 SBKRNL: Command = 11  1 1000
+12.04 17:57:46 SBKRNL: MSBuild. Version:33.03.05
+12.04 17:57:46 SBKRNL: Port timeouts:4294967295-0-0
+12.04 17:57:46 SBKRNL: Open com 10 (115200)
+12.04 17:57:46 SBKRNL: Pinpad status timeout 0 s
+12.04 17:57:46 SBKRNL: WaitPinpadSeconds=0
+12.04 17:57:46 SBKRNL: WaitPinpadSeconds=0
+12.04 17:57:46 SBKRNL: Start tmo 140200
+12.04 17:57:47 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:57:47 SBKRNL: Start connection
+12.04 17:57:47 SBKRNL: Connect OK
+12.04 17:57:51 SBKRNL: Close socket 800
+12.04 17:57:51 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:57:51 SBKRNL: Start connection
+12.04 17:57:51 SBKRNL: Connect OK
+12.04 17:57:52 SBKRNL: Send biometry command
+12.04 17:58:56 SBKRNL: Socket 916 recv error:10054
+12.04 17:58:56 SBKRNL: Socket 916 recv error:10054
+12.04 17:58:56 SBKRNL: Close socket 916
+12.04 17:58:56 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:58:56 SBKRNL: Start connection
+12.04 17:58:56 SBKRNL: Connect OK
+12.04 17:58:59 SBKRNL: Close socket 852
+12.04 17:58:59 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:58:59 SBKRNL: Start connection
+12.04 17:58:59 SBKRNL: Connect OK
+12.04 17:59:12 SBKRNL: Socket 824 recv error:10054
+12.04 17:59:12 SBKRNL: Close socket 824
+12.04 17:59:12 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:59:12 SBKRNL: Start connection
+12.04 17:59:12 SBKRNL: Connect OK
+12.04 17:59:23 SBKRNL: Socket 820 recv error:10054
+12.04 17:59:23 SBKRNL: Close socket 820
+12.04 17:59:23 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:59:23 SBKRNL: Start connection
+12.04 17:59:23 SBKRNL: Connect OK
+12.04 17:59:26 SBKRNL: Close socket 836
+12.04 17:59:26 SBKRNL: Connecting to 194.54.14.24, port 667
+12.04 17:59:26 SBKRNL: Start connection
+12.04 17:59:26 SBKRNL: Connect OK
+12.04 17:59:38 SBKRNL: Socket 820 recv error:10054
+12.04 17:59:38 SBKRNL: Close socket 820
+12.04 18:00:03 SBKRNL: Close com 10
+12.04 18:00:03 SBKRNL: Result  = 4119
+12.04 18:00:04 SBKRNL: Unloaded 'dialog_forms.dll' (70430000)
+12.04 18:00:04 SBKRNL: DialogFormsFree() Unload Ok.
+12.04 18:00:04 GATE: Unloaded 'sb_kernel.dll' (73060000)
+19.04 14:17:28 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:17:28 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:17:28 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:17:28 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:17:28 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:17:28 SBKRNL: Open com 10 (115200)
+19.04 14:17:28 SBKRNL: Close com 10
+19.04 14:17:28 SBKRNL: Command = 11  7
+19.04 14:17:28 SBKRNL: Version: 33.03.05
+19.04 14:17:28 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:17:28 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:17:28 SBKRNL: Open com 10 (115200)
+19.04 14:17:29 SBKRNL: Pinpad status timeout 0 s
+19.04 14:17:29 SBKRNL: WaitPinpadSeconds=0
+19.04 14:17:29 SBKRNL: WaitPinpadSeconds=0
+19.04 14:17:29 SBKRNL: Start tmo 140200
+19.04 14:17:29 SBKRNL: Connecting to 194.54.14.89, port 700
+19.04 14:17:29 SBKRNL: Start connection
+19.04 14:17:29 SBKRNL: Connect OK
+19.04 14:17:35 SBKRNL: Close socket 708
+19.04 14:17:35 SBKRNL: Connecting to 194.54.14.89, port 700
+19.04 14:17:35 SBKRNL: Start connection
+19.04 14:17:50 SBKRNL: Connect OK
+19.04 14:17:52 SBKRNL: Close socket 680
+19.04 14:17:52 SBKRNL: Connecting to 194.54.14.89, port 650
+19.04 14:17:52 SBKRNL: Start connection
+19.04 14:17:52 SBKRNL: Connect OK
+19.04 14:17:52 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:17:52 SBKRNL: ClientAddress value (hex) = 
+19.04 14:17:54 SBKRNL: Close socket 708
+19.04 14:17:55 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:17:55 SBKRNL: Start connection
+19.04 14:18:10 SBKRNL: Connect OK
+19.04 14:18:12 SBKRNL: Close socket 992
+19.04 14:18:13 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:18:13 SBKRNL: ClientAddress value (hex) = 
+19.04 14:18:13 SBKRNL: Connecting to 194.54.14.89, port 666
+19.04 14:18:13 SBKRNL: Start connection
+19.04 14:18:13 SBKRNL: Connect OK
+19.04 14:18:14 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:18:14 SBKRNL: ClientAddress value (hex) = 
+19.04 14:18:18 SBKRNL: Close socket 952
+19.04 14:18:18 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:18:18 SBKRNL: Start connection
+19.04 14:18:18 SBKRNL: Connect OK
+19.04 14:18:20 SBKRNL: Close socket 984
+19.04 14:18:20 SBKRNL: Close com 10
+19.04 14:18:20 SBKRNL: Result  = 0
+19.04 14:18:20 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+19.04 14:18:20 GATE: Error 126 on loading 'updater.dll' by module
+19.04 14:18:20 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:18:20 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:18:20 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:18:20 LOADPARM: Unloaded 'gate.dll' (73100000)
+19.04 14:18:29 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:18:29 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:18:29 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:18:29 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:18:29 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:18:29 SBKRNL: Open com 10 (115200)
+19.04 14:18:29 SBKRNL: Close com 10
+19.04 14:18:29 SBKRNL: Command = 11  7
+19.04 14:18:29 SBKRNL: Version: 33.03.05
+19.04 14:18:29 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:18:29 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:18:29 SBKRNL: Open com 10 (115200)
+19.04 14:18:29 SBKRNL: Pinpad status timeout 0 s
+19.04 14:18:29 SBKRNL: WaitPinpadSeconds=0
+19.04 14:18:29 SBKRNL: WaitPinpadSeconds=0
+19.04 14:18:29 SBKRNL: Start tmo 140200
+19.04 14:18:30 SBKRNL: Connecting to 194.54.14.89, port 700
+19.04 14:18:30 SBKRNL: Start connection
+19.04 14:18:30 SBKRNL: Connect OK
+19.04 14:18:30 SBKRNL: Close socket 984
+19.04 14:18:30 SBKRNL: Connecting to 194.54.14.89, port 650
+19.04 14:18:30 SBKRNL: Start connection
+19.04 14:18:30 SBKRNL: Connect OK
+19.04 14:18:31 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:18:31 SBKRNL: ClientAddress value (hex) = 
+19.04 14:18:31 SBKRNL: Close socket 652
+19.04 14:18:32 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:18:32 SBKRNL: Start connection
+19.04 14:18:32 SBKRNL: Connect OK
+19.04 14:18:34 SBKRNL: Close socket 680
+19.04 14:18:34 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:18:34 SBKRNL: ClientAddress value (hex) = 
+19.04 14:18:34 SBKRNL: Connecting to 194.54.14.89, port 666
+19.04 14:18:34 SBKRNL: Start connection
+19.04 14:18:34 SBKRNL: Connect OK
+19.04 14:18:35 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:18:35 SBKRNL: ClientAddress value (hex) = 
+19.04 14:18:39 SBKRNL: Close socket 540
+19.04 14:18:39 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:18:39 SBKRNL: Start connection
+19.04 14:18:39 SBKRNL: Connect OK
+19.04 14:18:41 SBKRNL: Close socket 980
+19.04 14:18:41 SBKRNL: Close com 10
+19.04 14:18:41 SBKRNL: Result  = 0
+19.04 14:18:41 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+19.04 14:18:41 GATE: Error 126 on loading 'updater.dll' by module
+19.04 14:18:41 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:18:41 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:18:41 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:18:41 LOADPARM: Unloaded 'gate.dll' (73100000)
+19.04 14:20:56 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:20:56 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:20:56 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:20:56 SBKRNL: Command = 11  11
+19.04 14:20:56 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:20:56 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:20:56 SBKRNL: Open com 10 (115200)
+19.04 14:20:56 SBKRNL: Pinpad status timeout 0 s
+19.04 14:20:56 SBKRNL: WaitPinpadSeconds=0
+19.04 14:20:57 SBKRNL: WaitPinpadSeconds=0
+19.04 14:20:57 SBKRNL: Start tmo 140200
+19.04 14:20:57 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:20:57 SBKRNL: ClientAddress value (hex) = 
+19.04 14:21:04 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:21:04 SBKRNL: ClientAddress value (hex) = 
+19.04 14:21:13 SBKRNL: Connecting to 194.54.14.89, port 666
+19.04 14:21:13 SBKRNL: Start connection
+19.04 14:21:13 SBKRNL: Connect OK
+19.04 14:21:14 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:21:14 SBKRNL: ClientAddress value (hex) = 
+19.04 14:22:33 SBKRNL: Close socket 936
+19.04 14:22:41 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:22:41 SBKRNL: Start connection
+19.04 14:22:41 SBKRNL: Connect OK
+19.04 14:22:43 SBKRNL: Close socket 1000
+19.04 14:22:43 SBKRNL: Close com 10
+19.04 14:22:43 SBKRNL: Result  = 0
+19.04 14:22:43 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:22:43 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:22:43 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:22:43 LOADPARM: Unloaded 'gate.dll' (73100000)
+19.04 14:22:48 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:22:48 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:22:48 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:22:48 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:22:48 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:22:48 SBKRNL: Open com 10 (115200)
+19.04 14:22:48 SBKRNL: Close com 10
+19.04 14:22:48 SBKRNL: Command = 11  7
+19.04 14:22:48 SBKRNL: Version: 33.03.05
+19.04 14:22:48 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:22:48 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:22:48 SBKRNL: Open com 10 (115200)
+19.04 14:22:48 SBKRNL: Pinpad status timeout 0 s
+19.04 14:22:48 SBKRNL: WaitPinpadSeconds=0
+19.04 14:22:48 SBKRNL: WaitPinpadSeconds=0
+19.04 14:22:48 SBKRNL: Start tmo 140200
+19.04 14:22:49 SBKRNL: Connecting to 194.54.14.162, port 700
+19.04 14:22:49 SBKRNL: Start connection
+19.04 14:22:49 SBKRNL: Connect OK
+19.04 14:22:50 SBKRNL: Close socket 940
+19.04 14:22:50 SBKRNL: Connecting to 194.54.14.89, port 650
+19.04 14:22:50 SBKRNL: Start connection
+19.04 14:22:50 SBKRNL: Connect OK
+19.04 14:22:51 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:22:51 SBKRNL: ClientAddress value (hex) = 
+19.04 14:22:51 SBKRNL: Close socket 960
+19.04 14:22:52 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:22:52 SBKRNL: Start connection
+19.04 14:22:52 SBKRNL: Connect OK
+19.04 14:22:54 SBKRNL: Close socket 940
+19.04 14:22:54 SBKRNL: Close com 10
+19.04 14:22:54 SBKRNL: Result  = 0
+19.04 14:22:54 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+19.04 14:22:54 GATE: Error 126 on loading 'updater.dll' by module
+19.04 14:22:54 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:22:54 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:22:54 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:22:54 LOADPARM: Unloaded 'gate.dll' (73100000)
+19.04 14:22:59 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:22:59 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:22:59 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:22:59 SBKRNL: Command = 11  1 100
+19.04 14:22:59 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:22:59 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:22:59 SBKRNL: Open com 10 (115200)
+19.04 14:22:59 SBKRNL: Pinpad status timeout 0 s
+19.04 14:22:59 SBKRNL: WaitPinpadSeconds=0
+19.04 14:22:59 SBKRNL: WaitPinpadSeconds=0
+19.04 14:22:59 SBKRNL: Start tmo 140200
+19.04 14:23:00 SBKRNL: Connecting to 194.54.14.162, port 700
+19.04 14:23:00 SBKRNL: Start connection
+19.04 14:23:00 SBKRNL: Connect OK
+19.04 14:23:15 SBKRNL: Close socket 664
+19.04 14:23:17 SBKRNL: Close com 10
+19.04 14:23:17 SBKRNL: Result  = 0
+19.04 14:23:17 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:23:17 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:23:17 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:23:17 LOADPARM: Unloaded 'gate.dll' (73100000)
+19.04 14:23:30 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:23:30 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:23:30 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:23:30 SBKRNL: Command = 11  8 100
+19.04 14:23:30 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:23:30 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:23:30 SBKRNL: Open com 10 (115200)
+19.04 14:23:30 SBKRNL: Pinpad status timeout 0 s
+19.04 14:23:30 SBKRNL: WaitPinpadSeconds=0
+19.04 14:23:30 SBKRNL: WaitPinpadSeconds=0
+19.04 14:23:30 SBKRNL: Start tmo 140200
+19.04 14:23:34 SBKRNL: Connecting to 194.54.14.162, port 700
+19.04 14:23:34 SBKRNL: Start connection
+19.04 14:23:35 SBKRNL: Connect OK
+19.04 14:23:35 SBKRNL: Close socket 928
+19.04 14:23:37 SBKRNL: Close com 10
+19.04 14:23:37 SBKRNL: Result  = 0
+19.04 14:23:37 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:23:37 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:23:37 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:23:37 LOADPARM: Unloaded 'gate.dll' (73100000)
+19.04 14:23:44 LOADPARM: Loaded 'gate.dll' (73100000)
+19.04 14:23:44 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+19.04 14:23:44 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+19.04 14:23:44 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:23:44 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:23:44 SBKRNL: Open com 10 (115200)
+19.04 14:23:44 SBKRNL: Close com 10
+19.04 14:23:44 SBKRNL: Command = 11  7
+19.04 14:23:44 SBKRNL: Version: 33.03.05
+19.04 14:23:44 SBKRNL: MSBuild. Version:33.03.05
+19.04 14:23:44 SBKRNL: Port timeouts:4294967295-0-0
+19.04 14:23:44 SBKRNL: Open com 10 (115200)
+19.04 14:23:44 SBKRNL: Pinpad status timeout 0 s
+19.04 14:23:44 SBKRNL: WaitPinpadSeconds=0
+19.04 14:23:44 SBKRNL: WaitPinpadSeconds=0
+19.04 14:23:44 SBKRNL: Start tmo 140200
+19.04 14:23:45 SBKRNL: Connecting to 194.54.14.162, port 700
+19.04 14:23:45 SBKRNL: Start connection
+19.04 14:23:46 SBKRNL: Connect OK
+19.04 14:23:47 SBKRNL: Close socket 964
+19.04 14:23:47 SBKRNL: Connecting to 194.54.14.89, port 650
+19.04 14:23:47 SBKRNL: Start connection
+19.04 14:23:47 SBKRNL: Connect OK
+19.04 14:23:48 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+19.04 14:23:48 SBKRNL: ClientAddress value (hex) = 
+19.04 14:23:48 SBKRNL: Close socket 992
+19.04 14:23:49 SBKRNL: Connecting to 194.54.14.89, port 690
+19.04 14:23:49 SBKRNL: Start connection
+19.04 14:23:49 SBKRNL: Connect OK
+19.04 14:23:51 SBKRNL: Close socket 992
+19.04 14:23:51 SBKRNL: Close com 10
+19.04 14:23:51 SBKRNL: Result  = 0
+19.04 14:23:51 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+19.04 14:23:51 GATE: Error 126 on loading 'updater.dll' by module
+19.04 14:23:51 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+19.04 14:23:51 SBKRNL: DialogFormsFree() Unload Ok.
+19.04 14:23:51 GATE: Unloaded 'sb_kernel.dll' (73070000)
+19.04 14:23:51 LOADPARM: Unloaded 'gate.dll' (73100000)
+20.04 12:20:28 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:20:28 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:20:28 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:20:28 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:20:28 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:20:28 SBKRNL: Open com 10 (115200)
+20.04 12:20:28 SBKRNL: Close com 10
+20.04 12:20:28 SBKRNL: Command = 11  7
+20.04 12:20:28 SBKRNL: Version: 33.03.05
+20.04 12:20:28 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:20:28 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:20:28 SBKRNL: Open com 10 (115200)
+20.04 12:20:28 SBKRNL: Pinpad status timeout 0 s
+20.04 12:20:28 SBKRNL: WaitPinpadSeconds=0
+20.04 12:20:28 SBKRNL: WaitPinpadSeconds=0
+20.04 12:20:28 SBKRNL: Start tmo 140200
+20.04 12:20:28 SBKRNL: Connecting to 194.54.14.162, port 700
+20.04 12:20:28 SBKRNL: Start connection
+20.04 12:20:28 SBKRNL: Connect OK
+20.04 12:20:33 SBKRNL: Close socket 952
+20.04 12:20:33 SBKRNL: Connecting to 194.54.14.89, port 650
+20.04 12:20:33 SBKRNL: Start connection
+20.04 12:20:48 SBKRNL: Connect OK
+20.04 12:20:49 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+20.04 12:20:49 SBKRNL: ClientAddress value (hex) = 
+20.04 12:20:49 SBKRNL: Close socket 984
+20.04 12:20:50 SBKRNL: Connecting to 194.54.14.89, port 690
+20.04 12:20:50 SBKRNL: Start connection
+20.04 12:20:50 SBKRNL: Connect OK
+20.04 12:20:52 SBKRNL: Close socket 992
+20.04 12:20:52 SBKRNL: Close com 10
+20.04 12:20:52 SBKRNL: Result  = 0
+20.04 12:20:52 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+20.04 12:20:52 GATE: Error 126 on loading 'updater.dll' by module
+20.04 12:20:52 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:20:52 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:20:52 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:20:52 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:21:05 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:21:05 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:21:05 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:21:05 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:21:05 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:21:05 SBKRNL: Open com 10 (115200)
+20.04 12:21:05 SBKRNL: Close com 10
+20.04 12:21:05 SBKRNL: Command = 11  7
+20.04 12:21:05 SBKRNL: Version: 33.03.05
+20.04 12:21:05 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:21:05 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:21:05 SBKRNL: Open com 10 (115200)
+20.04 12:21:05 SBKRNL: Pinpad status timeout 0 s
+20.04 12:21:05 SBKRNL: WaitPinpadSeconds=0
+20.04 12:21:05 SBKRNL: WaitPinpadSeconds=0
+20.04 12:21:05 SBKRNL: Start tmo 140200
+20.04 12:21:06 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:21:06 SBKRNL: Start connection
+20.04 12:21:06 SBKRNL: Connect OK
+20.04 12:21:09 SBKRNL: Close socket 1000
+20.04 12:21:10 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:21:10 SBKRNL: Start connection
+20.04 12:21:10 SBKRNL: Connect OK
+20.04 12:21:11 SBKRNL: Close socket 1020
+20.04 12:21:11 SBKRNL: Connecting to 194.54.14.24, port 650
+20.04 12:21:11 SBKRNL: Start connection
+20.04 12:21:11 SBKRNL: Connect OK
+20.04 12:21:11 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+20.04 12:21:11 SBKRNL: ClientAddress value (hex) = 
+20.04 12:21:11 SBKRNL: Close socket 984
+20.04 12:21:12 SBKRNL: Connecting to 194.54.14.89, port 690
+20.04 12:21:12 SBKRNL: Start connection
+20.04 12:21:12 SBKRNL: Connect OK
+20.04 12:21:14 SBKRNL: Close socket 692
+20.04 12:21:14 SBKRNL: Close com 10
+20.04 12:21:15 SBKRNL: Result  = 0
+20.04 12:21:15 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+20.04 12:21:15 GATE: Error 126 on loading 'updater.dll' by module
+20.04 12:21:15 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:21:15 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:21:15 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:21:15 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:21:20 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:21:20 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:21:20 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:21:20 SBKRNL: Command = 11  39 100
+20.04 12:21:20 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:21:20 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:21:20 SBKRNL: Open com 10 (115200)
+20.04 12:21:20 SBKRNL: Pinpad status timeout 0 s
+20.04 12:21:20 SBKRNL: WaitPinpadSeconds=0
+20.04 12:21:20 SBKRNL: WaitPinpadSeconds=0
+20.04 12:21:20 SBKRNL: Start tmo 140200
+20.04 12:21:23 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:21:23 SBKRNL: Start connection
+20.04 12:21:24 SBKRNL: Connect OK
+20.04 12:21:40 SBKRNL: Close socket 936
+20.04 12:21:44 SBKRNL: Close com 10
+20.04 12:21:44 SBKRNL: Result  = 503
+20.04 12:21:44 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:21:44 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:21:44 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:21:44 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:21:48 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:21:48 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:21:48 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:21:48 SBKRNL: Command = 11  39 100
+20.04 12:21:48 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:21:48 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:21:48 SBKRNL: Open com 10 (115200)
+20.04 12:21:48 SBKRNL: Pinpad status timeout 0 s
+20.04 12:21:48 SBKRNL: WaitPinpadSeconds=0
+20.04 12:21:48 SBKRNL: WaitPinpadSeconds=0
+20.04 12:21:48 SBKRNL: Start tmo 140200
+20.04 12:22:03 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:22:03 SBKRNL: Start connection
+20.04 12:22:03 SBKRNL: Connect OK
+20.04 12:22:48 SBKRNL: Close socket 936
+20.04 12:22:50 SBKRNL: Close com 10
+20.04 12:22:50 SBKRNL: Result  = 61005
+20.04 12:22:50 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:22:50 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:22:50 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:22:50 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:22:58 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:22:58 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:22:58 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:22:58 SBKRNL: Command = 11  1 100
+20.04 12:22:58 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:22:58 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:22:58 SBKRNL: Open com 10 (115200)
+20.04 12:22:58 SBKRNL: Pinpad status timeout 0 s
+20.04 12:22:58 SBKRNL: WaitPinpadSeconds=0
+20.04 12:22:58 SBKRNL: WaitPinpadSeconds=0
+20.04 12:22:58 SBKRNL: Start tmo 140200
+20.04 12:22:59 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:22:59 SBKRNL: Start connection
+20.04 12:22:59 SBKRNL: Connect OK
+20.04 12:23:59 SBKRNL: Close socket 600
+20.04 12:23:59 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:23:59 SBKRNL: Start connection
+20.04 12:23:59 SBKRNL: Connect OK
+20.04 12:24:58 SBKRNL: Close socket 856
+20.04 12:24:59 SBKRNL: Close com 10
+20.04 12:24:59 SBKRNL: Clear cheque on error 2002
+20.04 12:24:59 SBKRNL: Result  = 2002
+20.04 12:24:59 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:24:59 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:24:59 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:24:59 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:49:49 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:49:49 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:49:49 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:49:49 SBKRNL: Command = 11  39 100
+20.04 12:49:49 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:49:49 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:49:49 SBKRNL: Open com 10 (115200)
+20.04 12:49:49 SBKRNL: Pinpad status timeout 0 s
+20.04 12:49:49 SBKRNL: WaitPinpadSeconds=0
+20.04 12:49:49 SBKRNL: WaitPinpadSeconds=0
+20.04 12:49:49 SBKRNL: Start tmo 140200
+20.04 12:49:49 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:49:49 SBKRNL: Start connection
+20.04 12:49:50 SBKRNL: Connect OK
+20.04 12:49:50 SBKRNL: Close socket 940
+20.04 12:49:53 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:49:53 SBKRNL: Start connection
+20.04 12:49:53 SBKRNL: Connect OK
+20.04 12:50:11 SBKRNL: Close socket 916
+20.04 12:50:36 SBKRNL: Close com 10
+20.04 12:50:36 SBKRNL: Result  = 503
+20.04 12:50:36 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:50:36 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:50:36 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:50:36 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:50:51 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:50:51 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:50:51 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:50:51 SBKRNL: Command = 11  39 1000
+20.04 12:50:51 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:50:51 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:50:51 SBKRNL: Open com 10 (115200)
+20.04 12:50:51 SBKRNL: Pinpad status timeout 0 s
+20.04 12:50:51 SBKRNL: WaitPinpadSeconds=0
+20.04 12:50:51 SBKRNL: WaitPinpadSeconds=0
+20.04 12:50:51 SBKRNL: Start tmo 140200
+20.04 12:50:54 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:50:54 SBKRNL: Start connection
+20.04 12:50:54 SBKRNL: Connect OK
+20.04 12:51:03 SBKRNL: Close socket 940
+20.04 12:51:05 SBKRNL: Close com 10
+20.04 12:51:05 SBKRNL: Result  = 0
+20.04 12:51:05 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:51:05 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:51:05 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:51:05 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:51:20 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:51:21 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:51:21 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:51:21 SBKRNL: Command = 11  8 1000
+20.04 12:51:21 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:51:21 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:51:21 SBKRNL: Open com 10 (115200)
+20.04 12:51:21 SBKRNL: Pinpad status timeout 0 s
+20.04 12:51:21 SBKRNL: WaitPinpadSeconds=0
+20.04 12:51:21 SBKRNL: WaitPinpadSeconds=0
+20.04 12:51:21 SBKRNL: Start tmo 140200
+20.04 12:51:23 SBKRNL: Send biometry command
+20.04 12:51:26 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:51:26 SBKRNL: Start connection
+20.04 12:51:26 SBKRNL: Connect OK
+20.04 12:51:33 SBKRNL: Close socket 952
+20.04 12:51:35 SBKRNL: Close com 10
+20.04 12:51:35 SBKRNL: Result  = 0
+20.04 12:51:35 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:51:35 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:51:35 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:51:35 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:51:39 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:51:39 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:51:39 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:51:39 SBKRNL: Command = 11  39 1000
+20.04 12:51:39 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:51:39 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:51:39 SBKRNL: Open com 10 (115200)
+20.04 12:51:39 SBKRNL: Pinpad status timeout 0 s
+20.04 12:51:39 SBKRNL: WaitPinpadSeconds=0
+20.04 12:51:39 SBKRNL: WaitPinpadSeconds=0
+20.04 12:51:39 SBKRNL: Start tmo 140200
+20.04 12:51:44 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:51:44 SBKRNL: Start connection
+20.04 12:51:44 SBKRNL: Connect OK
+20.04 12:51:59 SBKRNL: Close socket 996
+20.04 12:52:03 SBKRNL: Close com 10
+20.04 12:52:03 SBKRNL: Result  = 503
+20.04 12:52:03 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:52:03 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:52:03 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:52:03 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 12:52:07 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 12:52:07 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 12:52:08 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 12:52:08 SBKRNL: Command = 11  39 1000
+20.04 12:52:08 SBKRNL: MSBuild. Version:33.03.05
+20.04 12:52:08 SBKRNL: Port timeouts:4294967295-0-0
+20.04 12:52:08 SBKRNL: Open com 10 (115200)
+20.04 12:52:08 SBKRNL: Pinpad status timeout 0 s
+20.04 12:52:08 SBKRNL: WaitPinpadSeconds=0
+20.04 12:52:08 SBKRNL: WaitPinpadSeconds=0
+20.04 12:52:08 SBKRNL: Start tmo 140200
+20.04 12:52:12 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 12:52:12 SBKRNL: Start connection
+20.04 12:52:12 SBKRNL: Connect OK
+20.04 12:52:27 SBKRNL: Close socket 912
+20.04 12:52:52 SBKRNL: Close com 10
+20.04 12:52:52 SBKRNL: Result  = 503
+20.04 12:52:52 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 12:52:52 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 12:52:52 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 12:52:52 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:32:30 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:32:30 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:32:30 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:32:30 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:32:30 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:32:30 SBKRNL: Open com 10 (115200)
+20.04 13:32:30 SBKRNL: Close com 10
+20.04 13:32:30 SBKRNL: Command = 11  7
+20.04 13:32:30 SBKRNL: Version: 33.03.05
+20.04 13:32:30 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:32:30 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:32:30 SBKRNL: Open com 10 (115200)
+20.04 13:32:30 SBKRNL: Pinpad status timeout 0 s
+20.04 13:32:30 SBKRNL: WaitPinpadSeconds=0
+20.04 13:32:30 SBKRNL: WaitPinpadSeconds=0
+20.04 13:32:31 SBKRNL: Start tmo 140200
+20.04 13:32:31 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:32:31 SBKRNL: Start connection
+20.04 13:32:31 SBKRNL: Connect OK
+20.04 13:32:33 SBKRNL: Close socket 932
+20.04 13:32:33 SBKRNL: Connecting to 194.54.14.24, port 650
+20.04 13:32:33 SBKRNL: Start connection
+20.04 13:32:34 SBKRNL: Connect OK
+20.04 13:32:34 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+20.04 13:32:34 SBKRNL: ClientAddress value (hex) = 
+20.04 13:32:35 SBKRNL: Close socket 948
+20.04 13:32:36 SBKRNL: Connecting to 194.54.14.89, port 690
+20.04 13:32:36 SBKRNL: Start connection
+20.04 13:32:36 SBKRNL: Connect OK
+20.04 13:32:38 SBKRNL: Close socket 960
+20.04 13:32:38 SBKRNL: Close com 10
+20.04 13:32:38 SBKRNL: Result  = 0
+20.04 13:32:38 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+20.04 13:32:38 GATE: Error 126 on loading 'updater.dll' by module
+20.04 13:32:38 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:32:38 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:32:38 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:32:38 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:33:08 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:33:08 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:33:08 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:33:08 SBKRNL: Command = 11  39 2012
+20.04 13:33:08 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:33:08 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:33:08 SBKRNL: Open com 10 (115200)
+20.04 13:33:08 SBKRNL: Pinpad status timeout 0 s
+20.04 13:33:08 SBKRNL: WaitPinpadSeconds=0
+20.04 13:33:08 SBKRNL: WaitPinpadSeconds=0
+20.04 13:33:08 SBKRNL: Start tmo 140200
+20.04 13:33:11 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:33:11 SBKRNL: Start connection
+20.04 13:33:11 SBKRNL: Connect OK
+20.04 13:33:18 SBKRNL: Close socket 648
+20.04 13:33:19 SBKRNL: Close com 10
+20.04 13:33:19 SBKRNL: Result  = 0
+20.04 13:33:19 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:33:19 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:33:19 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:33:19 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:33:31 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:33:31 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:33:31 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:33:31 SBKRNL: Command = 11  39 2015
+20.04 13:33:31 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:33:31 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:33:31 SBKRNL: Open com 10 (115200)
+20.04 13:33:31 SBKRNL: Pinpad status timeout 0 s
+20.04 13:33:31 SBKRNL: WaitPinpadSeconds=0
+20.04 13:33:31 SBKRNL: WaitPinpadSeconds=0
+20.04 13:33:31 SBKRNL: Start tmo 140200
+20.04 13:33:34 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:33:34 SBKRNL: Start connection
+20.04 13:33:34 SBKRNL: Connect OK
+20.04 13:33:40 SBKRNL: Close socket 1008
+20.04 13:33:41 SBKRNL: Close com 10
+20.04 13:33:41 SBKRNL: Result  = 0
+20.04 13:33:42 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:33:42 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:33:42 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:33:42 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:33:53 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:33:53 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:33:53 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:33:53 SBKRNL: Command = 11  39 2016
+20.04 13:33:53 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:33:53 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:33:53 SBKRNL: Open com 10 (115200)
+20.04 13:33:53 SBKRNL: Pinpad status timeout 0 s
+20.04 13:33:53 SBKRNL: WaitPinpadSeconds=0
+20.04 13:33:53 SBKRNL: WaitPinpadSeconds=0
+20.04 13:33:53 SBKRNL: Start tmo 140200
+20.04 13:34:09 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:34:09 SBKRNL: Start connection
+20.04 13:34:09 SBKRNL: Connect OK
+20.04 13:34:15 SBKRNL: Close socket 956
+20.04 13:34:16 SBKRNL: Close com 10
+20.04 13:34:16 SBKRNL: Result  = 0
+20.04 13:34:16 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:34:16 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:34:16 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:34:16 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:34:29 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:34:29 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:34:29 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:34:30 SBKRNL: Command = 11  39 2017
+20.04 13:34:30 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:34:30 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:34:30 SBKRNL: Open com 10 (115200)
+20.04 13:34:30 SBKRNL: Pinpad status timeout 0 s
+20.04 13:34:30 SBKRNL: WaitPinpadSeconds=0
+20.04 13:34:30 SBKRNL: WaitPinpadSeconds=0
+20.04 13:34:30 SBKRNL: Start tmo 140200
+20.04 13:34:33 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:34:33 SBKRNL: Start connection
+20.04 13:34:33 SBKRNL: Connect OK
+20.04 13:34:39 SBKRNL: Close socket 988
+20.04 13:34:40 SBKRNL: Close com 10
+20.04 13:34:40 SBKRNL: Result  = 0
+20.04 13:34:40 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:34:40 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:34:40 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:34:40 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:34:56 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:34:56 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:34:56 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:34:56 SBKRNL: Command = 11  39 2018
+20.04 13:34:56 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:34:56 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:34:56 SBKRNL: Open com 10 (115200)
+20.04 13:34:56 SBKRNL: Pinpad status timeout 0 s
+20.04 13:34:57 SBKRNL: WaitPinpadSeconds=0
+20.04 13:34:57 SBKRNL: WaitPinpadSeconds=0
+20.04 13:34:57 SBKRNL: Start tmo 140200
+20.04 13:35:13 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:35:13 SBKRNL: Start connection
+20.04 13:35:14 SBKRNL: Connect OK
+20.04 13:35:20 SBKRNL: Close socket 952
+20.04 13:35:21 SBKRNL: Close com 10
+20.04 13:35:21 SBKRNL: Result  = 0
+20.04 13:35:22 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:35:22 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:35:22 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:35:22 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:35:30 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:35:30 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:35:30 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:35:30 SBKRNL: Command = 11  39 2019
+20.04 13:35:30 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:35:30 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:35:30 SBKRNL: Open com 10 (115200)
+20.04 13:35:30 SBKRNL: Pinpad status timeout 0 s
+20.04 13:35:30 SBKRNL: WaitPinpadSeconds=0
+20.04 13:35:30 SBKRNL: WaitPinpadSeconds=0
+20.04 13:35:30 SBKRNL: Start tmo 140200
+20.04 13:35:46 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:35:46 SBKRNL: Start connection
+20.04 13:35:47 SBKRNL: Connect OK
+20.04 13:35:53 SBKRNL: Close socket 912
+20.04 13:35:55 SBKRNL: Close com 10
+20.04 13:35:55 SBKRNL: Result  = 0
+20.04 13:35:55 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:35:55 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:35:55 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:35:55 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:36:05 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:36:05 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:36:05 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:36:05 SBKRNL: Command = 11  39 2020
+20.04 13:36:05 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:36:05 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:36:05 SBKRNL: Open com 10 (115200)
+20.04 13:36:05 SBKRNL: Pinpad status timeout 0 s
+20.04 13:36:05 SBKRNL: WaitPinpadSeconds=0
+20.04 13:36:05 SBKRNL: WaitPinpadSeconds=0
+20.04 13:36:05 SBKRNL: Start tmo 140200
+20.04 13:36:18 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:36:18 SBKRNL: Start connection
+20.04 13:36:18 SBKRNL: Connect OK
+20.04 13:36:22 SBKRNL: Close socket 956
+20.04 13:36:30 SBKRNL: Close com 10
+20.04 13:36:30 SBKRNL: Result  = 403
+20.04 13:36:30 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:36:30 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:36:30 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:36:30 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:36:37 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:36:37 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:36:37 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:36:37 SBKRNL: Command = 11  39 2021
+20.04 13:36:37 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:36:37 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:36:37 SBKRNL: Open com 10 (115200)
+20.04 13:36:37 SBKRNL: Pinpad status timeout 0 s
+20.04 13:36:37 SBKRNL: WaitPinpadSeconds=0
+20.04 13:36:37 SBKRNL: WaitPinpadSeconds=0
+20.04 13:36:37 SBKRNL: Start tmo 140200
+20.04 13:36:40 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:36:40 SBKRNL: Start connection
+20.04 13:36:40 SBKRNL: Connect OK
+20.04 13:36:46 SBKRNL: Close socket 948
+20.04 13:36:47 SBKRNL: Close com 10
+20.04 13:36:47 SBKRNL: Result  = 0
+20.04 13:36:47 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:36:47 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:36:47 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:36:47 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:36:56 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:36:56 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:36:56 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:36:56 SBKRNL: Command = 11  39 2022
+20.04 13:36:56 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:36:56 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:36:56 SBKRNL: Open com 10 (115200)
+20.04 13:36:56 SBKRNL: Pinpad status timeout 0 s
+20.04 13:36:56 SBKRNL: WaitPinpadSeconds=0
+20.04 13:36:56 SBKRNL: WaitPinpadSeconds=0
+20.04 13:36:56 SBKRNL: Start tmo 140200
+20.04 13:37:08 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:37:08 SBKRNL: Start connection
+20.04 13:37:08 SBKRNL: Connect OK
+20.04 13:37:13 SBKRNL: Close socket 1008
+20.04 13:37:19 SBKRNL: Close com 10
+20.04 13:37:19 SBKRNL: Result  = 403
+20.04 13:37:19 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:37:19 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:37:19 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:37:19 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:37:22 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:37:22 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:37:22 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:37:22 SBKRNL: Command = 11  39 2022
+20.04 13:37:22 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:37:22 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:37:22 SBKRNL: Open com 10 (115200)
+20.04 13:37:22 SBKRNL: Pinpad status timeout 0 s
+20.04 13:37:22 SBKRNL: WaitPinpadSeconds=0
+20.04 13:37:22 SBKRNL: WaitPinpadSeconds=0
+20.04 13:37:22 SBKRNL: Start tmo 140200
+20.04 13:37:27 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:37:27 SBKRNL: Start connection
+20.04 13:37:27 SBKRNL: Connect OK
+20.04 13:37:33 SBKRNL: Close socket 944
+20.04 13:37:39 SBKRNL: Close com 10
+20.04 13:37:39 SBKRNL: Result  = 403
+20.04 13:37:39 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:37:39 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:37:39 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:37:39 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:37:45 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:37:45 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:37:45 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:37:46 SBKRNL: Command = 11  39 2023
+20.04 13:37:46 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:37:46 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:37:46 SBKRNL: Open com 10 (115200)
+20.04 13:37:46 SBKRNL: Pinpad status timeout 0 s
+20.04 13:37:46 SBKRNL: WaitPinpadSeconds=0
+20.04 13:37:46 SBKRNL: WaitPinpadSeconds=0
+20.04 13:37:46 SBKRNL: Start tmo 140200
+20.04 13:38:02 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:38:02 SBKRNL: Start connection
+20.04 13:38:03 SBKRNL: Connect OK
+20.04 13:38:09 SBKRNL: Close socket 912
+20.04 13:38:10 SBKRNL: Close com 10
+20.04 13:38:10 SBKRNL: Result  = 0
+20.04 13:38:10 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:38:10 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:38:10 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:38:10 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:38:16 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:38:16 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:38:16 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:38:16 SBKRNL: Command = 11  39 2024
+20.04 13:38:16 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:38:16 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:38:16 SBKRNL: Open com 10 (115200)
+20.04 13:38:17 SBKRNL: Pinpad status timeout 0 s
+20.04 13:38:17 SBKRNL: WaitPinpadSeconds=0
+20.04 13:38:17 SBKRNL: WaitPinpadSeconds=0
+20.04 13:38:17 SBKRNL: Start tmo 140200
+20.04 13:38:31 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:38:31 SBKRNL: Start connection
+20.04 13:38:32 SBKRNL: Connect OK
+20.04 13:38:36 SBKRNL: Close socket 984
+20.04 13:38:46 SBKRNL: Close com 10
+20.04 13:38:46 SBKRNL: Result  = 403
+20.04 13:38:46 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:38:46 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:38:46 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:38:46 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:38:50 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:38:50 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:38:50 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:38:50 SBKRNL: Command = 11  39 2024
+20.04 13:38:50 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:38:50 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:38:50 SBKRNL: Open com 10 (115200)
+20.04 13:38:51 SBKRNL: Pinpad status timeout 0 s
+20.04 13:38:51 SBKRNL: WaitPinpadSeconds=0
+20.04 13:38:51 SBKRNL: WaitPinpadSeconds=0
+20.04 13:38:51 SBKRNL: Start tmo 140200
+20.04 13:39:04 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:39:04 SBKRNL: Start connection
+20.04 13:39:04 SBKRNL: Connect OK
+20.04 13:39:09 SBKRNL: Close socket 948
+20.04 13:39:12 SBKRNL: Close com 10
+20.04 13:39:12 SBKRNL: Result  = 403
+20.04 13:39:12 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:39:12 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:39:12 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:39:12 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:39:15 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:39:15 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:39:15 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:39:15 SBKRNL: Command = 11  39 2024
+20.04 13:39:15 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:39:15 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:39:15 SBKRNL: Open com 10 (115200)
+20.04 13:39:15 SBKRNL: Pinpad status timeout 0 s
+20.04 13:39:15 SBKRNL: WaitPinpadSeconds=0
+20.04 13:39:15 SBKRNL: WaitPinpadSeconds=0
+20.04 13:39:15 SBKRNL: Start tmo 140200
+20.04 13:39:29 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:39:29 SBKRNL: Start connection
+20.04 13:39:29 SBKRNL: Connect OK
+20.04 13:39:34 SBKRNL: Close socket 960
+20.04 13:39:39 SBKRNL: Close com 10
+20.04 13:39:39 SBKRNL: Result  = 403
+20.04 13:39:39 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:39:39 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:39:39 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:39:39 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:39:42 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:39:42 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:39:42 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:39:42 SBKRNL: Command = 11  39 2024
+20.04 13:39:42 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:39:42 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:39:42 SBKRNL: Open com 10 (115200)
+20.04 13:39:42 SBKRNL: Pinpad status timeout 0 s
+20.04 13:39:42 SBKRNL: WaitPinpadSeconds=0
+20.04 13:39:42 SBKRNL: WaitPinpadSeconds=0
+20.04 13:39:42 SBKRNL: Start tmo 140200
+20.04 13:39:56 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:39:56 SBKRNL: Start connection
+20.04 13:39:56 SBKRNL: Connect OK
+20.04 13:40:01 SBKRNL: Close socket 1012
+20.04 13:40:03 SBKRNL: Close com 10
+20.04 13:40:03 SBKRNL: Result  = 0
+20.04 13:40:03 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:40:03 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:40:03 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:40:03 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:40:14 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:40:14 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:40:14 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:40:14 SBKRNL: Command = 11  39 2025
+20.04 13:40:15 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:40:15 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:40:15 SBKRNL: Open com 10 (115200)
+20.04 13:40:15 SBKRNL: Pinpad status timeout 0 s
+20.04 13:40:15 SBKRNL: WaitPinpadSeconds=0
+20.04 13:40:15 SBKRNL: WaitPinpadSeconds=0
+20.04 13:40:15 SBKRNL: Start tmo 140200
+20.04 13:40:31 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:40:31 SBKRNL: Start connection
+20.04 13:40:31 SBKRNL: Connect OK
+20.04 13:40:37 SBKRNL: Close socket 932
+20.04 13:40:39 SBKRNL: Close com 10
+20.04 13:40:39 SBKRNL: Result  = 0
+20.04 13:40:39 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:40:39 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:40:39 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:40:39 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:40:45 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:40:45 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:40:45 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:40:45 SBKRNL: Command = 11  39 2026
+20.04 13:40:45 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:40:45 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:40:45 SBKRNL: Open com 10 (115200)
+20.04 13:40:45 SBKRNL: Pinpad status timeout 0 s
+20.04 13:40:45 SBKRNL: WaitPinpadSeconds=0
+20.04 13:40:45 SBKRNL: WaitPinpadSeconds=0
+20.04 13:40:45 SBKRNL: Start tmo 140200
+20.04 13:41:03 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:41:03 SBKRNL: Start connection
+20.04 13:41:03 SBKRNL: Connect OK
+20.04 13:41:09 SBKRNL: Close socket 920
+20.04 13:41:12 SBKRNL: Close com 10
+20.04 13:41:12 SBKRNL: Result  = 403
+20.04 13:41:12 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:41:12 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:41:12 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:41:12 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:41:20 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:41:20 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:41:20 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:41:20 SBKRNL: Command = 11  39 2026
+20.04 13:41:20 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:41:20 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:41:20 SBKRNL: Open com 10 (115200)
+20.04 13:41:20 SBKRNL: Pinpad status timeout 0 s
+20.04 13:41:20 SBKRNL: WaitPinpadSeconds=0
+20.04 13:41:20 SBKRNL: WaitPinpadSeconds=0
+20.04 13:41:20 SBKRNL: Start tmo 140200
+20.04 13:41:37 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:41:37 SBKRNL: Start connection
+20.04 13:41:37 SBKRNL: Connect OK
+20.04 13:41:41 SBKRNL: Close socket 952
+20.04 13:41:44 SBKRNL: Close com 10
+20.04 13:41:44 SBKRNL: Result  = 403
+20.04 13:41:44 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:41:44 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:41:44 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:41:44 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:41:48 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:41:48 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:41:48 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:41:48 SBKRNL: Command = 11  39 2026
+20.04 13:41:48 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:41:48 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:41:48 SBKRNL: Open com 10 (115200)
+20.04 13:41:48 SBKRNL: Pinpad status timeout 0 s
+20.04 13:41:48 SBKRNL: WaitPinpadSeconds=0
+20.04 13:41:48 SBKRNL: WaitPinpadSeconds=0
+20.04 13:41:48 SBKRNL: Start tmo 140200
+20.04 13:42:05 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:42:05 SBKRNL: Start connection
+20.04 13:42:05 SBKRNL: Connect OK
+20.04 13:42:10 SBKRNL: Close socket 912
+20.04 13:42:13 SBKRNL: Close com 10
+20.04 13:42:13 SBKRNL: Result  = 30004
+20.04 13:42:13 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:42:13 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:42:13 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:42:13 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:42:25 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:42:25 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:42:25 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:42:25 SBKRNL: Command = 11  39 2026
+20.04 13:42:25 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:42:25 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:42:25 SBKRNL: Open com 10 (115200)
+20.04 13:42:25 SBKRNL: Pinpad status timeout 0 s
+20.04 13:42:25 SBKRNL: WaitPinpadSeconds=0
+20.04 13:42:25 SBKRNL: WaitPinpadSeconds=0
+20.04 13:42:25 SBKRNL: Start tmo 140200
+20.04 13:42:42 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:42:42 SBKRNL: Start connection
+20.04 13:42:42 SBKRNL: Connect OK
+20.04 13:42:47 SBKRNL: Close socket 912
+20.04 13:42:49 SBKRNL: Close com 10
+20.04 13:42:49 SBKRNL: Result  = 30004
+20.04 13:42:49 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:42:49 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:42:49 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:42:49 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:42:52 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:42:52 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:42:52 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:42:52 SBKRNL: Command = 11  39 2026
+20.04 13:42:52 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:42:52 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:42:52 SBKRNL: Open com 10 (115200)
+20.04 13:42:52 SBKRNL: Pinpad status timeout 0 s
+20.04 13:42:52 SBKRNL: WaitPinpadSeconds=0
+20.04 13:42:52 SBKRNL: WaitPinpadSeconds=0
+20.04 13:42:52 SBKRNL: Start tmo 140200
+20.04 13:43:01 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:43:01 SBKRNL: Start connection
+20.04 13:43:01 SBKRNL: Connect OK
+20.04 13:43:06 SBKRNL: Close socket 980
+20.04 13:43:08 SBKRNL: Close com 10
+20.04 13:43:08 SBKRNL: Result  = 30004
+20.04 13:43:08 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:43:08 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:43:08 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:43:08 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:43:10 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:43:10 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:43:11 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:43:11 SBKRNL: Command = 11  39 2026
+20.04 13:43:11 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:43:11 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:43:11 SBKRNL: Open com 10 (115200)
+20.04 13:43:11 SBKRNL: Pinpad status timeout 0 s
+20.04 13:43:11 SBKRNL: WaitPinpadSeconds=0
+20.04 13:43:11 SBKRNL: WaitPinpadSeconds=0
+20.04 13:43:11 SBKRNL: Start tmo 140200
+20.04 13:43:28 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:43:28 SBKRNL: Start connection
+20.04 13:43:28 SBKRNL: Connect OK
+20.04 13:43:32 SBKRNL: Close socket 664
+20.04 13:43:35 SBKRNL: Close com 10
+20.04 13:43:35 SBKRNL: Result  = 30004
+20.04 13:43:35 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:43:35 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:43:35 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:43:35 LOADPARM: Unloaded 'gate.dll' (73E10000)
+20.04 13:43:41 LOADPARM: Loaded 'gate.dll' (73E10000)
+20.04 13:43:41 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+20.04 13:43:41 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+20.04 13:43:41 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:43:41 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:43:41 SBKRNL: Open com 10 (115200)
+20.04 13:43:41 SBKRNL: Close com 10
+20.04 13:43:41 SBKRNL: Command = 11  7
+20.04 13:43:41 SBKRNL: Version: 33.03.05
+20.04 13:43:41 SBKRNL: MSBuild. Version:33.03.05
+20.04 13:43:41 SBKRNL: Port timeouts:4294967295-0-0
+20.04 13:43:41 SBKRNL: Open com 10 (115200)
+20.04 13:43:41 SBKRNL: Pinpad status timeout 0 s
+20.04 13:43:41 SBKRNL: WaitPinpadSeconds=0
+20.04 13:43:41 SBKRNL: WaitPinpadSeconds=0
+20.04 13:43:41 SBKRNL: Start tmo 140200
+20.04 13:43:42 SBKRNL: Connecting to 194.54.14.24, port 667
+20.04 13:43:42 SBKRNL: Start connection
+20.04 13:43:42 SBKRNL: Connect OK
+20.04 13:43:43 SBKRNL: Close socket 952
+20.04 13:43:43 SBKRNL: Connecting to 194.54.14.24, port 650
+20.04 13:43:43 SBKRNL: Start connection
+20.04 13:43:43 SBKRNL: Connect OK
+20.04 13:43:43 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+20.04 13:43:43 SBKRNL: ClientAddress value (hex) = 
+20.04 13:43:44 SBKRNL: Close socket 168
+20.04 13:43:45 SBKRNL: Connecting to 194.54.14.89, port 690
+20.04 13:43:45 SBKRNL: Start connection
+20.04 13:43:45 SBKRNL: Connect OK
+20.04 13:43:47 SBKRNL: Close socket 988
+20.04 13:43:47 SBKRNL: Close com 10
+20.04 13:43:47 SBKRNL: Result  = 0
+20.04 13:43:47 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+20.04 13:43:47 GATE: Error 126 on loading 'updater.dll' by module
+20.04 13:43:47 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+20.04 13:43:47 SBKRNL: DialogFormsFree() Unload Ok.
+20.04 13:43:47 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+20.04 13:43:47 LOADPARM: Unloaded 'gate.dll' (73E10000)
+21.04 09:58:45 LOADPARM: Loaded 'gate.dll' (73100000)
+21.04 09:58:45 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+21.04 09:58:45 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+21.04 09:58:45 SBKRNL: Command = 11  8 100 /i=BIOMETRY
+21.04 09:58:45 SBKRNL: MSBuild. Version:33.03.05
+21.04 09:58:45 SBKRNL: Port timeouts:4294967295-0-0
+21.04 09:58:45 SBKRNL: Open com 10 (115200)
+21.04 09:58:45 SBKRNL: Pinpad status timeout 0 s
+21.04 09:58:45 SBKRNL: WaitPinpadSeconds=0
+21.04 09:58:45 SBKRNL: WaitPinpadSeconds=0
+21.04 09:58:45 SBKRNL: Start tmo 140200
+21.04 09:58:51 SBKRNL: Close com 10
+21.04 09:58:51 SBKRNL: Result  = 4118
+21.04 09:58:51 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+21.04 09:58:51 SBKRNL: DialogFormsFree() Unload Ok.
+21.04 09:58:51 GATE: Unloaded 'sb_kernel.dll' (73070000)
+21.04 09:58:51 LOADPARM: Unloaded 'gate.dll' (73100000)
+21.04 10:03:58 LOADPARM: Loaded 'gate.dll' (73100000)
+21.04 10:03:58 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+21.04 10:03:58 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+21.04 10:03:58 SBKRNL: Command = 11  8 100 /i=BIOMETRY
+21.04 10:03:58 SBKRNL: MSBuild. Version:33.03.05
+21.04 10:03:58 SBKRNL: Port timeouts:4294967295-0-0
+21.04 10:03:58 SBKRNL: Open com 10 (115200)
+21.04 10:03:58 SBKRNL: Pinpad status timeout 0 s
+21.04 10:03:58 SBKRNL: WaitPinpadSeconds=0
+21.04 10:03:58 SBKRNL: WaitPinpadSeconds=0
+21.04 10:03:58 SBKRNL: Start tmo 140200
+21.04 10:04:20 SBKRNL: Close com 10
+21.04 10:04:20 SBKRNL: Clear cheque on error 2000
+21.04 10:04:20 SBKRNL: Result  = 2000
+21.04 10:04:20 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+21.04 10:04:20 SBKRNL: DialogFormsFree() Unload Ok.
+21.04 10:04:20 GATE: Unloaded 'sb_kernel.dll' (73070000)
+21.04 10:04:20 LOADPARM: Unloaded 'gate.dll' (73100000)
+21.04 10:04:25 LOADPARM: Loaded 'gate.dll' (73100000)
+21.04 10:04:25 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+21.04 10:04:25 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+21.04 10:04:25 SBKRNL: Command = 11  1 100 /i=BIOMETRY
+21.04 10:04:25 SBKRNL: MSBuild. Version:33.03.05
+21.04 10:04:25 SBKRNL: Port timeouts:4294967295-0-0
+21.04 10:04:25 SBKRNL: Open com 10 (115200)
+21.04 10:04:25 SBKRNL: Pinpad status timeout 0 s
+21.04 10:04:25 SBKRNL: WaitPinpadSeconds=0
+21.04 10:04:25 SBKRNL: WaitPinpadSeconds=0
+21.04 10:04:25 SBKRNL: Start tmo 140200
+21.04 10:04:26 SBKRNL: Connecting to 194.54.14.24, port 667
+21.04 10:04:26 SBKRNL: Start connection
+21.04 10:04:26 SBKRNL: Connect OK
+21.04 10:04:30 SBKRNL: Send abort command
+21.04 10:04:30 SBKRNL: Close socket 828
+21.04 10:04:30 SBKRNL: Close com 10
+21.04 10:04:30 SBKRNL: Clear cheque on error 2000
+21.04 10:04:30 SBKRNL: Result  = 2000
+21.04 10:04:30 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+21.04 10:04:30 SBKRNL: DialogFormsFree() Unload Ok.
+21.04 10:04:30 GATE: Unloaded 'sb_kernel.dll' (73070000)
+21.04 10:04:30 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:27:59 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:27:59 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:27:59 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:27:59 SBKRNL: Command = 11  1 100 /i=BIOMETRY
+25.04 16:27:59 SBKRNL: MSBuild. Version:33.03.05
+25.04 16:27:59 SBKRNL: Port timeouts:4294967295-0-0
+25.04 16:27:59 SBKRNL: Open com 10 (115200)
+25.04 16:27:59 SBKRNL: Pinpad status timeout 0 s
+25.04 16:27:59 SBKRNL: WaitPinpadSeconds=0
+25.04 16:27:59 SBKRNL: WaitPinpadSeconds=0
+25.04 16:27:59 SBKRNL: Start tmo 140200
+25.04 16:28:00 SBKRNL: Connecting to 194.54.14.24, port 667
+25.04 16:28:00 SBKRNL: Start connection
+25.04 16:28:00 SBKRNL: Connect OK
+25.04 16:28:01 SBKRNL: Close socket 940
+25.04 16:28:08 SBKRNL: Close com 10
+25.04 16:28:08 SBKRNL: Result  = 4134
+25.04 16:28:08 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:28:08 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:28:08 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:28:08 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:28:14 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:28:14 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:28:14 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:28:14 SBKRNL: Command = 11  1 100
+25.04 16:28:14 SBKRNL: MSBuild. Version:33.03.05
+25.04 16:28:14 SBKRNL: Port timeouts:4294967295-0-0
+25.04 16:28:14 SBKRNL: Open com 10 (115200)
+25.04 16:28:14 SBKRNL: Pinpad status timeout 0 s
+25.04 16:28:14 SBKRNL: WaitPinpadSeconds=0
+25.04 16:28:14 SBKRNL: WaitPinpadSeconds=0
+25.04 16:28:14 SBKRNL: Start tmo 140200
+25.04 16:28:16 SBKRNL: Close com 10
+25.04 16:28:17 SBKRNL: Result  = 4134
+25.04 16:28:17 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:28:17 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:28:17 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:28:17 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:28:20 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:28:20 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:28:20 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:28:20 SBKRNL: Command = 11  0
+25.04 16:28:20 SBKRNL: Result  = 4301
+25.04 16:28:20 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:28:20 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:28:20 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:28:20 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:28:24 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:28:24 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:28:24 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:28:24 SBKRNL: Command = 11  0 0
+25.04 16:28:24 SBKRNL: Result  = 4301
+25.04 16:28:24 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:28:24 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:28:24 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:28:24 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:28:41 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:28:41 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:28:41 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:28:41 SBKRNL: MSBuild. Version:33.03.05
+25.04 16:28:41 SBKRNL: Port timeouts:4294967295-0-0
+25.04 16:28:41 SBKRNL: Open com 10 (115200)
+25.04 16:28:41 SBKRNL: Close com 10
+25.04 16:28:41 SBKRNL: Command = 11  7
+25.04 16:28:41 SBKRNL: Version: 33.03.05
+25.04 16:28:41 SBKRNL: MSBuild. Version:33.03.05
+25.04 16:28:41 SBKRNL: Port timeouts:4294967295-0-0
+25.04 16:28:41 SBKRNL: Open com 10 (115200)
+25.04 16:28:41 SBKRNL: Pinpad status timeout 0 s
+25.04 16:28:41 SBKRNL: WaitPinpadSeconds=0
+25.04 16:28:41 SBKRNL: WaitPinpadSeconds=0
+25.04 16:28:41 SBKRNL: Start tmo 140200
+25.04 16:28:42 SBKRNL: Connecting to 194.54.14.24, port 667
+25.04 16:28:42 SBKRNL: Start connection
+25.04 16:28:42 SBKRNL: Connect OK
+25.04 16:28:43 SBKRNL: Close socket 900
+25.04 16:28:43 SBKRNL: Connecting to 194.54.14.24, port 650
+25.04 16:28:43 SBKRNL: Start connection
+25.04 16:28:43 SBKRNL: Connect OK
+25.04 16:28:44 SBKRNL: RegOpenKeyEx(... SOFTWARE\SBRF\POS\Session ...) =2
+25.04 16:28:44 SBKRNL: ClientAddress value (hex) = 
+25.04 16:28:44 SBKRNL: Close socket 904
+25.04 16:28:45 SBKRNL: Connecting to 194.54.14.89, port 690
+25.04 16:28:45 SBKRNL: Start connection
+25.04 16:28:45 SBKRNL: Connect OK
+25.04 16:29:05 SBKRNL: Close socket 984
+25.04 16:29:05 SBKRNL: Close com 10
+25.04 16:29:05 SBKRNL: Result  = 0
+25.04 16:29:05 GATE: Error 126 on loading 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\updater.dll'
+25.04 16:29:05 GATE: Error 126 on loading 'updater.dll' by module
+25.04 16:29:05 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:29:05 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:29:05 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:29:05 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:29:26 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:29:26 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:29:26 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:29:26 SBKRNL: Command = 11  1 100
+25.04 16:29:26 SBKRNL: MSBuild. Version:33.03.05
+25.04 16:29:26 SBKRNL: Port timeouts:4294967295-0-0
+25.04 16:29:26 SBKRNL: Open com 10 (115200)
+25.04 16:29:26 SBKRNL: Pinpad status timeout 0 s
+25.04 16:29:26 SBKRNL: WaitPinpadSeconds=0
+25.04 16:29:26 SBKRNL: WaitPinpadSeconds=0
+25.04 16:29:26 SBKRNL: Start tmo 140200
+25.04 16:29:27 SBKRNL: Connecting to 194.54.14.24, port 667
+25.04 16:29:27 SBKRNL: Start connection
+25.04 16:29:27 SBKRNL: Connect OK
+25.04 16:29:45 SBKRNL: Send biometry command
+25.04 16:29:58 SBKRNL: Close socket 840
+25.04 16:30:04 SBKRNL: Close com 10
+25.04 16:30:04 SBKRNL: Result  = 403
+25.04 16:30:04 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:30:04 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:30:04 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:30:04 LOADPARM: Unloaded 'gate.dll' (73100000)
+25.04 16:30:17 LOADPARM: Loaded 'gate.dll' (73100000)
+25.04 16:30:17 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73070000)
+25.04 16:30:17 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (706B0000)
+25.04 16:30:17 SBKRNL: Command = 11  1 100
+25.04 16:30:17 SBKRNL: MSBuild. Version:33.03.05
+25.04 16:30:17 SBKRNL: Port timeouts:4294967295-0-0
+25.04 16:30:17 SBKRNL: Open com 10 (115200)
+25.04 16:30:17 SBKRNL: Pinpad status timeout 0 s
+25.04 16:30:17 SBKRNL: WaitPinpadSeconds=0
+25.04 16:30:17 SBKRNL: WaitPinpadSeconds=0
+25.04 16:30:17 SBKRNL: Start tmo 140200
+25.04 16:30:18 SBKRNL: Connecting to 194.54.14.24, port 667
+25.04 16:30:18 SBKRNL: Start connection
+25.04 16:30:18 SBKRNL: Connect OK
+25.04 16:30:35 SBKRNL: Send biometry command
+25.04 16:30:49 SBKRNL: Close socket 680
+25.04 16:31:14 SBKRNL: Close com 10
+25.04 16:31:14 SBKRNL: Result  = 403
+25.04 16:31:14 SBKRNL: Unloaded 'dialog_forms.dll' (706B0000)
+25.04 16:31:14 SBKRNL: DialogFormsFree() Unload Ok.
+25.04 16:31:14 GATE: Unloaded 'sb_kernel.dll' (73070000)
+25.04 16:31:14 LOADPARM: Unloaded 'gate.dll' (73100000)
+26.04 11:01:30 LOADPARM: Loaded 'gate.dll' (73E10000)
+26.04 11:01:30 GATE: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\sb_kernel.dll' (73D80000)
+26.04 11:01:30 SBKRNL: Loaded 'C:\Users\bro\Desktop\BIO Q3 UPOS3.0\Soft\PC_STUB\WIN\dialog_forms.dll' (704C0000)
+26.04 11:01:30 SBKRNL: Command = 11  0
+26.04 11:01:30 SBKRNL: Result  = 4301
+26.04 11:01:30 SBKRNL: Unloaded 'dialog_forms.dll' (704C0000)
+26.04 11:01:30 SBKRNL: DialogFormsFree() Unload Ok.
+26.04 11:01:30 GATE: Unloaded 'sb_kernel.dll' (73D80000)
+26.04 11:01:30 LOADPARM: Unloaded 'gate.dll' (73E10000)
