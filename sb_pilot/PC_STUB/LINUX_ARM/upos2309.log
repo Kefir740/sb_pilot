@@ -1,0 +1,242 @@
+22.09 05:01:33 SBPILOT: error: cannot open '/var/lock/sbrf-upos-main.lock'
+22.09 05:01:36 SBPILOT: error: cannot open '/var/lock/sbrf-upos-main.lock'
+22.09 05:04:08 SBPILOT: error: cannot open '/var/lock/sbrf-upos-main.lock'
+25.09 04:35:47 SBPILOT: start with arguments '1 100 '
+25.09 04:35:47 SBPILOT: Err 2 opening COM port
+25.09 04:35:48 SBPILOT: Err 2 opening COM port
+25.09 04:35:49 SBPILOT: Err 2 opening COM port
+25.09 04:35:49 SBPILOT: Err 2 opening COM port
+25.09 04:35:50 SBPILOT: Err 2 opening COM port
+25.09 04:35:50 SBPILOT: Err 2 opening COM port
+25.09 04:35:51 SBPILOT: Err 2 opening COM port
+25.09 04:35:52 SBPILOT: Err 2 opening COM port
+25.09 04:35:52 SBPILOT: Err 2 opening COM port
+25.09 04:35:53 SBPILOT: Err 2 opening COM port
+25.09 04:35:53 SBPILOT: Err 2 opening COM port
+25.09 04:35:54 SBPILOT: Err 2 opening COM port
+25.09 04:35:55 SBPILOT: Err 2 opening COM port
+25.09 04:35:55 SBPILOT: Err 2 opening COM port
+25.09 04:35:56 SBPILOT: Err 2 opening COM port
+25.09 04:35:56 SBPILOT: Err 2 opening COM port
+25.09 04:35:57 SBPILOT: Err 2 opening COM port
+25.09 04:35:58 SBPILOT: finished with result 99
+25.09 04:46:56 SBPILOT: start with arguments '1 100 '
+25.09 04:46:56 SBPILOT: Err 2 opening COM port
+25.09 04:46:57 SBPILOT: Err 2 opening COM port
+25.09 04:46:57 SBPILOT: Err 2 opening COM port
+25.09 04:46:58 SBPILOT: Err 2 opening COM port
+25.09 04:46:59 SBPILOT: Err 2 opening COM port
+25.09 04:46:59 SBPILOT: Err 2 opening COM port
+25.09 04:47:00 SBPILOT: Err 2 opening COM port
+25.09 04:47:00 SBPILOT: Err 2 opening COM port
+25.09 04:47:01 SBPILOT: Err 2 opening COM port
+25.09 04:47:02 SBPILOT: Err 2 opening COM port
+25.09 04:47:02 SBPILOT: Err 2 opening COM port
+25.09 04:47:03 SBPILOT: Err 2 opening COM port
+25.09 04:47:03 SBPILOT: Err 2 opening COM port
+25.09 04:47:04 SBPILOT: Err 2 opening COM port
+25.09 04:47:05 SBPILOT: Err 2 opening COM port
+25.09 04:47:05 SBPILOT: Err 2 opening COM port
+25.09 04:47:06 SBPILOT: Err 2 opening COM port
+25.09 04:47:06 SBPILOT: finished with result 99
+25.09 04:49:07 SBPILOT: start with arguments '1 100 '
+25.09 04:49:07 SBPILOT: finished with result 99
+25.09 04:51:08 SBPILOT: start with arguments '1 100 '
+25.09 04:51:08 SBPILOT: finished with result 99
+25.09 05:03:27 SBPILOT: start with arguments '1 100 '
+25.09 05:03:27 SBPILOT: finished with result 99
+25.09 05:43:54 SBPILOT: start with arguments '1 100 '
+25.09 05:43:54 SBPILOT: finished with result 252
+25.09 05:44:09 SBPILOT: start with arguments '1 100 '
+25.09 05:44:09 SBPILOT: finished with result 99
+25.09 05:45:59 SBPILOT: start with arguments '1 100 '
+25.09 05:45:59 SBPILOT: finished with result 99
+25.09 05:49:20 SBPILOT: start with arguments '1 100 '
+25.09 05:49:20 SBPILOT: finished with result 99
+25.09 05:57:29 SBPILOT: start with arguments '1 100 '
+25.09 05:57:29 SBPILOT: finished with result 99
+25.09 05:57:33 SBPILOT: start with arguments '26 1 '
+25.09 05:57:33 SBPILOT: Start Find COM
+25.09 05:57:33 SBPILOT: Find COM result:253
+25.09 05:57:33 SBPILOT: finished with result 99
+25.09 05:58:09 SBPILOT: start with arguments '7 0 '
+25.09 05:58:09 SBPILOT: finished with result 99
+25.09 15:43:25 SBPILOT: start with arguments '1 100 '
+25.09 15:43:25 SBPILOT: finished with result 99
+25.09 15:43:51 SBPILOT: start with arguments '1 100 '
+25.09 15:43:51 SBPILOT: finished with result 99
+25.09 15:44:41 SBPILOT: start with arguments '1 100 '
+25.09 15:44:41 SBPILOT: finished with result 252
+25.09 15:44:55 SBPILOT: start with arguments '1 100 '
+25.09 15:44:55 SBPILOT: finished with result 252
+25.09 15:45:14 SBPILOT: start with arguments '26 1 '
+25.09 15:45:14 SBPILOT: Start Find COM
+25.09 15:45:14 SBPILOT: Find COM result:252
+25.09 15:45:14 SBPILOT: finished with result 252
+25.09 15:45:31 SBPILOT: start with arguments '26 1 '
+25.09 15:45:31 SBPILOT: Start Find COM
+25.09 15:45:31 SBPILOT: Find COM result:252
+25.09 15:45:31 SBPILOT: finished with result 252
+25.09 15:45:42 SBPILOT: start with arguments '1 100 '
+25.09 15:45:42 SBPILOT: finished with result 252
+25.09 15:45:53 SBPILOT: start with arguments '1 100 '
+25.09 15:45:53 SBPILOT: finished with result 252
+25.09 15:48:25 SBPILOT: start with arguments '26 1 '
+25.09 15:48:25 SBPILOT: Start Find COM
+25.09 15:48:25 SBPILOT: Find COM result:252
+25.09 15:48:25 SBPILOT: finished with result 252
+25.09 18:28:31 SBPILOT: start with arguments '1 100 '
+25.09 18:28:31 SBPILOT: finished with result 99
+25.09 18:28:40 SBPILOT: start with arguments '1 100 '
+25.09 18:28:40 SBPILOT: finished with result 99
+25.09 18:28:48 SBPILOT: start with arguments '1 100 '
+25.09 18:28:48 SBPILOT: finished with result 99
+25.09 18:28:56 SBPILOT: start with arguments '1 100 '
+25.09 18:28:56 SBPILOT: finished with result 99
+25.09 18:32:22 SBPILOT: start with arguments '1 100 '
+25.09 18:32:22 SBPILOT: finished with result 99
+25.09 18:32:29 SBPILOT: start with arguments '1 100 '
+25.09 18:32:29 SBPILOT: finished with result 99
+25.09 18:32:36 SBPILOT: start with arguments '1 100 '
+25.09 18:32:36 SBPILOT: finished with result 99
+25.09 18:32:42 SBPILOT: start with arguments '1 100 '
+25.09 18:32:42 SBPILOT: finished with result 99
+25.09 18:32:48 SBPILOT: start with arguments '1 100 '
+25.09 18:32:48 SBPILOT: finished with result 99
+25.09 18:32:56 SBPILOT: start with arguments '1 100 '
+25.09 18:32:56 SBPILOT: finished with result 99
+25.09 18:33:04 SBPILOT: start with arguments '1 100 '
+25.09 18:33:04 SBPILOT: finished with result 99
+25.09 18:33:12 SBPILOT: start with arguments '1 100 '
+25.09 18:33:12 SBPILOT: finished with result 99
+26.09 00:15:01 SBPILOT: start with arguments '1 100 '
+26.09 00:15:01 SBPILOT: finished with result 99
+26.09 00:15:45 SBPILOT: start with arguments '1 100 '
+26.09 00:15:45 SBPILOT: finished with result 99
+26.09 00:16:10 SBPILOT: start with arguments '1 100 '
+26.09 00:16:10 SBPILOT: Open com 1
+26.09 00:16:17 SBPILOT: Close com 1
+26.09 00:16:18 SBPILOT: Open com 1
+26.09 00:16:26 SBPILOT: Close com 1
+26.09 00:16:26 SBPILOT: finished with result 99
+26.09 00:16:36 SBPILOT: start with arguments '1 100 '
+26.09 00:16:36 SBPILOT: Open com 2
+26.09 00:16:44 SBPILOT: Close com 2
+26.09 00:16:44 SBPILOT: Open com 2
+26.09 00:16:52 SBPILOT: Close com 2
+26.09 00:16:52 SBPILOT: finished with result 99
+26.09 00:16:58 SBPILOT: start with arguments '1 100 '
+26.09 00:16:58 SBPILOT: Open com 3
+26.09 00:17:06 SBPILOT: Close com 3
+26.09 00:17:06 SBPILOT: Open com 3
+26.09 00:17:14 SBPILOT: Close com 3
+26.09 00:17:14 SBPILOT: finished with result 99
+26.09 00:17:36 SBPILOT: start with arguments '1 100 '
+26.09 00:17:36 SBPILOT: Err 2 opening COM port
+26.09 00:17:37 SBPILOT: Err 2 opening COM port
+26.09 00:17:37 SBPILOT: Err 2 opening COM port
+26.09 00:17:38 SBPILOT: Err 2 opening COM port
+26.09 00:17:39 SBPILOT: Err 2 opening COM port
+26.09 00:17:39 SBPILOT: Err 2 opening COM port
+26.09 00:17:40 SBPILOT: Err 2 opening COM port
+26.09 00:17:40 SBPILOT: Err 2 opening COM port
+26.09 00:17:41 SBPILOT: Err 2 opening COM port
+26.09 00:17:42 SBPILOT: Err 2 opening COM port
+26.09 00:17:42 SBPILOT: Err 2 opening COM port
+26.09 00:17:43 SBPILOT: Err 2 opening COM port
+26.09 00:17:43 SBPILOT: Err 2 opening COM port
+26.09 00:17:44 SBPILOT: Err 2 opening COM port
+26.09 00:17:45 SBPILOT: Err 2 opening COM port
+26.09 00:17:45 SBPILOT: Err 2 opening COM port
+26.09 00:17:46 SBPILOT: Err 2 opening COM port
+26.09 00:17:46 SBPILOT: finished with result 99
+26.09 00:18:28 SBPILOT: start with arguments '1 100 '
+26.09 00:18:28 SBPILOT: Open com 3
+26.09 00:18:36 SBPILOT: Close com 3
+26.09 00:18:36 SBPILOT: Open com 3
+26.09 00:18:44 SBPILOT: Close com 3
+26.09 00:18:44 SBPILOT: finished with result 99
+26.09 00:18:50 SBPILOT: start with arguments '1 100 '
+26.09 00:18:50 SBPILOT: Open com 4
+26.09 00:18:58 SBPILOT: Close com 4
+26.09 00:18:58 SBPILOT: Open com 4
+26.09 00:19:06 SBPILOT: Close com 4
+26.09 00:19:06 SBPILOT: finished with result 99
+26.09 00:19:13 SBPILOT: start with arguments '1 100 '
+26.09 00:19:13 SBPILOT: Open com 5
+26.09 00:19:21 SBPILOT: Close com 5
+26.09 00:19:21 SBPILOT: Open com 5
+26.09 00:19:29 SBPILOT: Close com 5
+26.09 00:19:29 SBPILOT: finished with result 99
+26.09 00:19:35 SBPILOT: start with arguments '1 100 '
+26.09 00:19:35 SBPILOT: Open com 6
+26.09 00:19:42 SBPILOT: Close com 6
+26.09 00:19:43 SBPILOT: Open com 6
+26.09 00:19:51 SBPILOT: Close com 6
+26.09 00:19:51 SBPILOT: finished with result 99
+26.09 00:20:13 SBPILOT: start with arguments '1 100 '
+26.09 00:20:13 SBPILOT: Open com 7
+26.09 00:20:20 SBPILOT: Close com 7
+26.09 00:20:21 SBPILOT: Open com 7
+26.09 00:20:28 SBPILOT: Close com 7
+26.09 00:20:29 SBPILOT: finished with result 99
+26.09 00:20:40 SBPILOT: start with arguments '1 100 '
+26.09 00:20:40 SBPILOT: Open com 8
+26.09 00:20:48 SBPILOT: Close com 8
+26.09 00:20:48 SBPILOT: Open com 8
+26.09 00:20:56 SBPILOT: Close com 8
+26.09 00:20:56 SBPILOT: finished with result 99
+26.09 00:21:30 SBPILOT: start with arguments '1 100 '
+26.09 00:21:30 SBPILOT: Err 2 opening COM port
+26.09 00:21:31 SBPILOT: Err 2 opening COM port
+26.09 00:21:31 SBPILOT: Err 2 opening COM port
+26.09 00:21:32 SBPILOT: Err 2 opening COM port
+26.09 00:21:33 SBPILOT: Err 2 opening COM port
+26.09 00:21:33 SBPILOT: Err 2 opening COM port
+26.09 00:21:34 SBPILOT: Err 2 opening COM port
+26.09 00:21:34 SBPILOT: Err 2 opening COM port
+26.09 00:21:35 SBPILOT: Err 2 opening COM port
+26.09 00:21:36 SBPILOT: Err 2 opening COM port
+26.09 00:21:36 SBPILOT: Err 2 opening COM port
+26.09 00:21:37 SBPILOT: Err 2 opening COM port
+26.09 00:21:37 SBPILOT: Err 2 opening COM port
+26.09 00:21:38 SBPILOT: Err 2 opening COM port
+26.09 00:21:39 SBPILOT: Err 2 opening COM port
+26.09 00:21:39 SBPILOT: Err 2 opening COM port
+26.09 00:21:40 SBPILOT: Err 2 opening COM port
+26.09 00:21:40 SBPILOT: finished with result 99
+26.09 00:21:47 SBPILOT: start with arguments '1 100 '
+26.09 00:21:47 SBPILOT: Err 2 opening COM port
+26.09 00:21:47 SBPILOT: Err 2 opening COM port
+26.09 00:21:48 SBPILOT: Err 2 opening COM port
+26.09 00:21:49 SBPILOT: Err 2 opening COM port
+26.09 00:21:49 SBPILOT: Err 2 opening COM port
+26.09 00:21:50 SBPILOT: Err 2 opening COM port
+26.09 00:21:50 SBPILOT: Err 2 opening COM port
+26.09 00:21:51 SBPILOT: Err 2 opening COM port
+26.09 00:21:52 SBPILOT: Err 2 opening COM port
+26.09 00:21:52 SBPILOT: Err 2 opening COM port
+26.09 00:21:53 SBPILOT: Err 2 opening COM port
+26.09 00:21:53 SBPILOT: Err 2 opening COM port
+26.09 00:21:54 SBPILOT: Err 2 opening COM port
+26.09 00:21:55 SBPILOT: Err 2 opening COM port
+26.09 00:21:55 SBPILOT: Err 2 opening COM port
+26.09 00:21:56 SBPILOT: Err 2 opening COM port
+26.09 00:21:56 SBPILOT: Err 2 opening COM port
+26.09 00:21:57 SBPILOT: finished with result 99
+29.09 14:33:50 SBPILOT: start with arguments '1 100 '
+29.09 14:33:50 SBPILOT: Open com 1
+29.09 14:33:57 SBPILOT: Close com 1
+29.09 14:33:58 SBPILOT: Open com 1
+29.09 14:34:05 SBPILOT: Close com 1
+29.09 14:34:06 SBPILOT: finished with result 99
+29.09 14:34:25 SBPILOT: start with arguments '1 100 '
+29.09 14:34:25 SBPILOT: finished with result 99
+29.09 14:35:14 SBPILOT: start with arguments '1 100 '
+29.09 14:35:14 SBPILOT: finished with result 99
+29.09 14:35:23 SBPILOT: start with arguments '1 100 '
+29.09 14:35:23 SBPILOT: Open com 1
+29.09 14:35:30 SBPILOT: Close com 1
+29.09 14:35:31 SBPILOT: Open com 1
+29.09 14:35:38 SBPILOT: Close com 1
+29.09 14:35:39 SBPILOT: finished with result 99

@@ -1,0 +1,78 @@
+02.10 08:28:14 SBPILOT: start with arguments '1 100 '
+02.10 08:28:14 SBPILOT: Open com 2
+02.10 08:28:22 SBPILOT: Close com 2
+02.10 08:28:22 SBPILOT: Open com 2
+02.10 08:28:30 SBPILOT: Close com 2
+02.10 08:28:30 SBPILOT: finished with result 99
+02.10 08:33:07 SBPILOT: start with arguments '1 100 '
+02.10 08:33:07 SBPILOT: Err 2 opening COM port
+02.10 08:33:08 SBPILOT: Err 2 opening COM port
+02.10 08:33:08 SBPILOT: Err 2 opening COM port
+02.10 08:33:09 SBPILOT: Err 2 opening COM port
+02.10 08:33:09 SBPILOT: Err 2 opening COM port
+02.10 08:33:10 SBPILOT: Err 2 opening COM port
+02.10 08:33:11 SBPILOT: Err 2 opening COM port
+02.10 08:33:11 SBPILOT: Err 2 opening COM port
+02.10 08:33:12 SBPILOT: Err 2 opening COM port
+02.10 08:33:12 SBPILOT: Err 2 opening COM port
+02.10 08:33:13 SBPILOT: Err 2 opening COM port
+02.10 08:33:14 SBPILOT: Err 2 opening COM port
+02.10 08:33:14 SBPILOT: Err 2 opening COM port
+02.10 08:33:15 SBPILOT: Err 2 opening COM port
+02.10 08:33:15 SBPILOT: Err 2 opening COM port
+02.10 08:33:16 SBPILOT: Err 2 opening COM port
+02.10 08:33:17 SBPILOT: Err 2 opening COM port
+02.10 08:33:17 SBPILOT: finished with result 99
+02.10 08:33:25 SBPILOT: start with arguments '1 100 '
+02.10 08:33:25 SBPILOT: Err 2 opening COM port
+02.10 08:33:26 SBPILOT: Err 2 opening COM port
+02.10 08:33:27 SBPILOT: Err 2 opening COM port
+02.10 08:33:27 SBPILOT: Err 2 opening COM port
+02.10 08:33:28 SBPILOT: Err 2 opening COM port
+02.10 08:33:28 SBPILOT: Err 2 opening COM port
+02.10 08:33:29 SBPILOT: Err 2 opening COM port
+02.10 08:33:30 SBPILOT: Err 2 opening COM port
+02.10 08:33:30 SBPILOT: Err 2 opening COM port
+02.10 08:33:31 SBPILOT: Err 2 opening COM port
+02.10 08:33:31 SBPILOT: Err 2 opening COM port
+02.10 08:33:32 SBPILOT: Err 2 opening COM port
+02.10 08:33:33 SBPILOT: Err 2 opening COM port
+02.10 08:33:33 SBPILOT: Err 2 opening COM port
+02.10 08:33:34 SBPILOT: Err 2 opening COM port
+02.10 08:33:34 SBPILOT: Err 2 opening COM port
+02.10 08:33:35 SBPILOT: Err 2 opening COM port
+02.10 08:33:36 SBPILOT: finished with result 99
+02.10 08:40:30 SBPILOT: start with arguments '1 100 '
+02.10 08:40:30 SBPILOT: Err 2 opening COM port
+02.10 08:40:30 SBPILOT: Err 2 opening COM port
+02.10 08:40:31 SBPILOT: Err 2 opening COM port
+02.10 08:40:32 SBPILOT: Err 2 opening COM port
+02.10 08:40:32 SBPILOT: Err 2 opening COM port
+02.10 08:40:33 SBPILOT: Err 2 opening COM port
+02.10 08:40:33 SBPILOT: Err 2 opening COM port
+02.10 08:40:34 SBPILOT: Err 2 opening COM port
+02.10 08:40:35 SBPILOT: Err 2 opening COM port
+02.10 08:40:35 SBPILOT: Err 2 opening COM port
+02.10 08:40:36 SBPILOT: Err 2 opening COM port
+02.10 08:40:36 SBPILOT: Err 2 opening COM port
+02.10 08:40:37 SBPILOT: Err 2 opening COM port
+02.10 08:40:38 SBPILOT: Err 2 opening COM port
+02.10 08:40:38 SBPILOT: Err 2 opening COM port
+02.10 08:40:39 SBPILOT: Err 2 opening COM port
+02.10 08:40:39 SBPILOT: Err 2 opening COM port
+02.10 08:40:40 SBPILOT: finished with result 99
+02.10 08:41:48 SBPILOT: start with arguments '1 100 '
+02.10 08:41:48 SBPILOT: finished with result 99
+02.10 08:44:12 SBPILOT: start with arguments '1 100 '
+02.10 08:44:12 SBPILOT: Open com 53
+02.10 08:44:12 SBPILOT: Pinpad status timeout 0 s
+02.10 08:44:12 SBPILOT: WaitPinpadSeconds=0
+02.10 08:44:12 SBPILOT: WaitPinpadSeconds=0
+02.10 08:44:12 SBPILOT: Start tmo 140200
+02.10 08:44:12 SBPILOT: Connecting to 194.54.14.89, port 700
+02.10 08:44:12 SBPILOT: Start connection
+02.10 08:44:12 SBPILOT: Connect OK
+02.10 08:44:56 SBPILOT: Close socket 5
+02.10 08:44:57 SBPILOT: Close com 53
+02.10 08:44:57 SBPILOT: Clear cheque on error 2002
+02.10 08:44:57 SBPILOT: finished with result 2002
